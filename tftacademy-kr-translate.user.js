@@ -159,6 +159,12 @@
             const observer = new MutationObserver((mutations) => {
                 if (!tipsReplacer) return;
                 for (const m of mutations) {
+                    if (m.type === "characterData") {
+                        const node = m.target;
+                        const newText = tipsReplacer(node.nodeValue);
+                        if (newText !== node.nodeValue) node.nodeValue = newText;
+                        continue;
+                    }
                     for (const node of m.addedNodes) {
                         if (node.nodeType === Node.TEXT_NODE) {
                             const newText = tipsReplacer(node.nodeValue);
@@ -169,7 +175,9 @@
                     }
                 }
             });
-            observer.observe(document.body, { childList: true, subtree: true });
+            // Svelte는 새 노드를 삽입하기보다 기존 텍스트 노드의 내용(characterData)만
+            // 갱신하는 경우가 많아서 childList만으로는 감지가 안 됨 -> characterData도 관찰.
+            observer.observe(document.body, { childList: true, subtree: true, characterData: true });
         });
     }
 
