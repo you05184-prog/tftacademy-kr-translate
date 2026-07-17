@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         TFT Academy 한글 번역
 // @namespace    https://github.com/you05184-prog/tftacademy-kr-translate
-// @version      0.3.1
-// @description  tftacademy.com 티어리스트 페이지의 챔피언/아이템/특성/증강 이름 및 사이트 자체 팁 텍스트를 한글로 실시간 번역
+// @version      0.4.0
+// @description  tftacademy.com 티어리스트 페이지의 챔피언/아이템/특성/증강 이름, 특성 설명, 사이트 자체 팁 텍스트를 한글로 실시간 번역
 // @author       you05184-prog
 // @match        https://tftacademy.com/tierlist*
 // @grant        none
@@ -18,6 +18,8 @@
         "https://raw.githubusercontent.com/you05184-prog/tftacademy-kr-translate/main/data/glossary.json";
     const TIPS_GLOSSARY_URL =
         "https://raw.githubusercontent.com/you05184-prog/tftacademy-kr-translate/main/data/tips-glossary.json";
+    const DESCRIPTIONS_GLOSSARY_URL =
+        "https://raw.githubusercontent.com/you05184-prog/tftacademy-kr-translate/main/data/descriptions-glossary.json";
 
     // ---------- 1. 챔피언/아이템/특성/증강 고유명사 번역 (fetch 인터셉트) ----------
 
@@ -39,6 +41,16 @@
             console.warn("[TFT Academy 한글 번역] 용어집 로드 실패:", err);
         });
 
+    let descriptionsGlossary = null;
+    const descriptionsGlossaryReady = fetch(DESCRIPTIONS_GLOSSARY_URL)
+        .then((r) => r.json())
+        .then((g) => {
+            descriptionsGlossary = g;
+        })
+        .catch((err) => {
+            console.warn("[TFT Academy 한글 번역] 설명 용어집 로드 실패:", err);
+        });
+
     function matchCategory(pathname) {
         for (const prefix in CATEGORY_BY_PATH) {
             if (pathname.startsWith(prefix)) return CATEGORY_BY_PATH[prefix];
@@ -46,10 +58,19 @@
         return null;
     }
 
-    function translateEntry(entry, dict) {
+    function translateEntry(entry, dict, descDict) {
         const g = dict[entry.apiName];
         if (g && g.name_ko) {
             entry.name = g.name_ko;
+        }
+        const d = descDict && descDict[entry.apiName];
+        if (d) {
+            if (d.description_ko) entry.description = d.description_ko;
+            if (Array.isArray(d.effects_ko) && Array.isArray(entry.effects)) {
+                for (let i = 0; i < d.effects_ko.length && i < entry.effects.length; i++) {
+                    entry.effects[i] = d.effects_ko[i];
+                }
+            }
         }
     }
 
@@ -76,7 +97,7 @@
         const category = matchCategory(pathname);
         if (!category) return response;
 
-        await glossaryReady;
+        await Promise.all([glossaryReady, descriptionsGlossaryReady]);
         if (!glossary) return response;
 
         let data;
@@ -88,9 +109,10 @@
 
         const list = data[category];
         const dict = glossary[category] || {};
+        const descDict = (descriptionsGlossary && descriptionsGlossary[category]) || {};
         if (Array.isArray(list)) {
             for (const entry of list) {
-                translateEntry(entry, dict);
+                translateEntry(entry, dict, descDict);
             }
         }
 
