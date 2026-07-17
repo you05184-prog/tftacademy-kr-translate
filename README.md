@@ -69,6 +69,6 @@
   - 주의: Svelte는 텍스트를 기존 노드의 `characterData` 변경으로 갱신하는 경우가 많아 `childList`만으로는 감지 안 됨 — 반드시 `characterData: true`도 관찰해야 함
 - [x] 특성(trait) description + effects 번역 (42/42) — `data/descriptions-glossary.json`, fetch 인터셉트로 적용 (호버 툴팁/카드 자동 반영, 챔피언명과 동일한 메커니즘)
   - 참고: Set 17은 최신 세트라 일부 신규 키워드(정밀/Precision, 행운/Lucky 등)는 공식 로컬라이제이션 대조 자료가 없어 통상적인 번역 관례를 따른 추정 번역 — 추후 검증 필요
-- [ ] 증강(augment) description 번역 (266개, 아직 미착수 — 다음 작업 예정)
+- [x] 증강(augment) description 번역 (266/266) — 동일한 fetch 인터셉트 메커니즘으로 적용, API 응답 레벨에서 검증 완료
 - [ ] 챔피언 스킬 설명(ability) 번역 — 사용자가 불필요하다고 확인함, 진행 안 함
 - [ ] 클라우드 예약 에이전트 설정 (매일 08:00, 14:00 KST 업데이트 체크, 재번역, 자동 푸시) — tips-glossary.json도 신규/변경된 조합이 생기면 같이 갱신해야 함
