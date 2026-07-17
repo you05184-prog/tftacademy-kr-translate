@@ -1,0 +1,19 @@
+{
+  "_comment": "Data Dragon에 없는 apiName에 대한 수동 보정. TFT17_God_* 는 아노말리(이상 현상) 챔피언 변형으로 원본 챔피언과 동일한 롤 공식 한글 명칭 사용.",
+  "champions": {
+    "TFT17_God_Ahri": "아리",
+    "TFT17_God_Asol": "아우렐리온 솔",
+    "TFT17_God_Evelyn": "이블린",
+    "TFT17_God_Ekko": "에코",
+    "TFT17_God_Soraka": "소라카",
+    "TFT17_God_Kayle": "케일",
+    "TFT17_God_Yasuo": "야스오",
+    "TFT17_God_Varus": "바루스",
+    "TFT17_God_Thresh": "쓰레쉬",
+    "TFT_BlueGolem": "골렘",
+    "TFT_TrainingDummy": "훈련 인형"
+  },
+  "items": {},
+  "traits": {},
+  "augments": {}
+}

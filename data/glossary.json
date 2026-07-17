@@ -1,0 +1,2673 @@
+{
+  "generatedAt": "2026-07-17T02:07:24.814Z",
+  "ddragonVersion": "16.14.1",
+  "tftSet": 17,
+  "champions": {
+    "TFT17_Briar": {
+      "name_en": "Briar",
+      "name_ko": "브라이어"
+    },
+    "TFT17_Belveth": {
+      "name_en": "Bel'Veth",
+      "name_ko": "벨베스"
+    },
+    "TFT17_MissFortune": {
+      "name_en": "Miss Fortune",
+      "name_ko": "미스 포츈"
+    },
+    "TFT17_Akali": {
+      "name_en": "Akali",
+      "name_ko": "아칼리"
+    },
+    "TFT17_Bard": {
+      "name_en": "Bard",
+      "name_ko": "바드"
+    },
+    "TFT17_Jinx": {
+      "name_en": "Jinx",
+      "name_ko": "징크스"
+    },
+    "TFT17_Illaoi": {
+      "name_en": "Illaoi",
+      "name_ko": "일라오이"
+    },
+    "TFT17_Aurora": {
+      "name_en": "Aurora",
+      "name_ko": "오로라"
+    },
+    "TFT17_Fiora": {
+      "name_en": "Fiora",
+      "name_ko": "피오라"
+    },
+    "TFT17_Gnar": {
+      "name_en": "Gnar",
+      "name_ko": "나르"
+    },
+    "TFT17_Fizz": {
+      "name_en": "Fizz",
+      "name_ko": "피즈"
+    },
+    "TFT17_Rammus": {
+      "name_en": "Rammus",
+      "name_ko": "람머스"
+    },
+    "TFT17_Poppy": {
+      "name_en": "Poppy",
+      "name_ko": "뽀삐"
+    },
+    "TFT17_Corki": {
+      "name_en": "Corki",
+      "name_ko": "코르키"
+    },
+    "TFT17_Veigar": {
+      "name_en": "Veigar",
+      "name_ko": "베이가"
+    },
+    "TFT17_Aatrox": {
+      "name_en": "Aatrox",
+      "name_ko": "아트록스"
+    },
+    "TFT17_Caitlyn": {
+      "name_en": "Caitlyn",
+      "name_ko": "케이틀린"
+    },
+    "TFT17_Maokai": {
+      "name_en": "Maokai",
+      "name_ko": "마오카이"
+    },
+    "TFT17_Kindred": {
+      "name_en": "Kindred",
+      "name_ko": "킨드레드"
+    },
+    "TFT17_Kaisa": {
+      "name_en": "Kai'Sa",
+      "name_ko": "카이사"
+    },
+    "TFT17_Karma": {
+      "name_en": "Karma",
+      "name_ko": "카르마"
+    },
+    "TFT17_Jhin": {
+      "name_en": "Jhin",
+      "name_ko": "진"
+    },
+    "TFT17_Urgot": {
+      "name_en": "Urgot",
+      "name_ko": "우르곳"
+    },
+    "TFT17_AurelionSol": {
+      "name_en": "Aurelion Sol",
+      "name_ko": "아우렐리온 솔"
+    },
+    "TFT17_Galio": {
+      "name_en": "The Mighty Mech",
+      "name_ko": "거대 메크 로봇"
+    },
+    "TFT17_Viktor": {
+      "name_en": "Viktor",
+      "name_ko": "빅토르"
+    },
+    "TFT17_Pyke": {
+      "name_en": "Pyke",
+      "name_ko": "파이크"
+    },
+    "TFT17_MasterYi": {
+      "name_en": "Master Yi",
+      "name_ko": "마스터 이"
+    },
+    "TFT17_Gragas": {
+      "name_en": "Gragas",
+      "name_ko": "그라가스"
+    },
+    "TFT17_Teemo": {
+      "name_en": "Teemo",
+      "name_ko": "티모"
+    },
+    "TFT17_Nasus": {
+      "name_en": "Nasus",
+      "name_ko": "나서스"
+    },
+    "TFT17_Gwen": {
+      "name_en": "Gwen",
+      "name_ko": "그웬"
+    },
+    "TFT17_Samira": {
+      "name_en": "Samira",
+      "name_ko": "사미라"
+    },
+    "TFT17_Ornn": {
+      "name_en": "Ornn",
+      "name_ko": "오른"
+    },
+    "TFT17_Nami": {
+      "name_en": "Nami",
+      "name_ko": "나미"
+    },
+    "TFT17_Blitzcrank": {
+      "name_en": "Blitzcrank",
+      "name_ko": "블리츠크랭크"
+    },
+    "TFT17_Sona": {
+      "name_en": "Sona",
+      "name_ko": "소나"
+    },
+    "TFT17_TwistedFate": {
+      "name_en": "Twisted Fate",
+      "name_ko": "트위스티드 페이트"
+    },
+    "TFT17_Talon": {
+      "name_en": "Talon",
+      "name_ko": "탈론"
+    },
+    "TFT17_Jax": {
+      "name_en": "Jax",
+      "name_ko": "잭스"
+    },
+    "TFT17_Lulu": {
+      "name_en": "Lulu",
+      "name_ko": "룰루"
+    },
+    "TFT17_Nunu": {
+      "name_en": "Nunu & Willump",
+      "name_ko": "누누와 윌럼프"
+    },
+    "TFT17_Vex": {
+      "name_en": "Vex",
+      "name_ko": "벡스"
+    },
+    "TFT17_Riven": {
+      "name_en": "Riven",
+      "name_ko": "리븐"
+    },
+    "TFT17_Shen": {
+      "name_en": "Shen",
+      "name_ko": "쉔"
+    },
+    "TFT17_Milio": {
+      "name_en": "Milio",
+      "name_ko": "밀리오"
+    },
+    "TFT17_Ezreal": {
+      "name_en": "Ezreal",
+      "name_ko": "이즈리얼"
+    },
+    "TFT17_Leona": {
+      "name_en": "Leona",
+      "name_ko": "레오나"
+    },
+    "TFT17_Zoe": {
+      "name_en": "Zoe",
+      "name_ko": "조이"
+    },
+    "TFT17_Diana": {
+      "name_en": "Diana",
+      "name_ko": "다이애나"
+    },
+    "TFT17_Leblanc": {
+      "name_en": "LeBlanc",
+      "name_ko": "르블랑"
+    },
+    "TFT17_Chogath": {
+      "name_en": "Cho'Gath",
+      "name_ko": "초가스"
+    },
+    "TFT17_Lissandra": {
+      "name_en": "Lissandra",
+      "name_ko": "리산드라"
+    },
+    "TFT17_Zed": {
+      "name_en": "Zed",
+      "name_ko": "제드"
+    },
+    "TFT17_Summon": {
+      "name_en": "Bia & Bayin",
+      "name_ko": null
+    },
+    "TFT17_IvernMinion": {
+      "name_en": "Meepsie",
+      "name_ko": "꼬마 정령"
+    },
+    "TFT17_Mordekaiser": {
+      "name_en": "Mordekaiser",
+      "name_ko": "모데카이저"
+    },
+    "TFT17_Xayah": {
+      "name_en": "Xayah",
+      "name_ko": "자야"
+    },
+    "TFT17_Graves": {
+      "name_en": "Graves",
+      "name_ko": "그레이브즈"
+    },
+    "TFT17_TahmKench": {
+      "name_en": "Tahm Kench",
+      "name_ko": "탐 켄치"
+    },
+    "TFT17_Rhaast": {
+      "name_en": "Rhaast",
+      "name_ko": "라아스트"
+    },
+    "TFT17_Pantheon": {
+      "name_en": "Pantheon",
+      "name_ko": "판테온"
+    },
+    "TFT17_Morgana": {
+      "name_en": "Morgana",
+      "name_ko": "모르가나"
+    },
+    "TFT_BlueGolem": {
+      "name_en": "Golem",
+      "name_ko": "골렘"
+    },
+    "TFT_TrainingDummy": {
+      "name_en": "Training Dummy",
+      "name_ko": "훈련 인형"
+    },
+    "TFT_Flex_Lv7": {
+      "name_en": "level 7",
+      "name_ko": null
+    },
+    "TFT_Flex_Lv8": {
+      "name_en": "level 8",
+      "name_ko": null
+    },
+    "TFT_Flex_Lv9": {
+      "name_en": "level 9",
+      "name_ko": null
+    },
+    "TFT_Flex_Lv10": {
+      "name_en": "level 10",
+      "name_ko": null
+    },
+    "TFT17_Relic": {
+      "name_en": "Relic",
+      "name_ko": null
+    },
+    "TFT17_God_Ahri": {
+      "name_en": "Ahri",
+      "name_ko": "아리"
+    },
+    "TFT17_God_Asol": {
+      "name_en": "Asol",
+      "name_ko": "아우렐리온 솔"
+    },
+    "TFT17_God_Evelyn": {
+      "name_en": "Evelynn",
+      "name_ko": "이블린"
+    },
+    "TFT17_God_Ekko": {
+      "name_en": "Ekko",
+      "name_ko": "에코"
+    },
+    "TFT17_God_Soraka": {
+      "name_en": "Soraka",
+      "name_ko": "소라카"
+    },
+    "TFT17_God_Kayle": {
+      "name_en": "Kayle",
+      "name_ko": "케일"
+    },
+    "TFT17_God_Yasuo": {
+      "name_en": "Yasuo",
+      "name_ko": "야스오"
+    },
+    "TFT17_God_Varus": {
+      "name_en": "Varus",
+      "name_ko": "바루스"
+    },
+    "TFT17_God_Thresh": {
+      "name_en": "Thresh",
+      "name_ko": "쓰레쉬"
+    },
+    "TFT17_RekSai": {
+      "name_en": "Rek'Sai",
+      "name_ko": "렉사이"
+    },
+    "TFT17_DarkStar_FakeUnit": {
+      "name_en": "Mini Black Hole",
+      "name_ko": "소형 블랙홀"
+    }
+  },
+  "items": {
+    "TFT_Item_BFSword": {
+      "name_en": "B.F. Sword",
+      "name_ko": "B.F. 대검"
+    },
+    "TFT_Item_ChainVest": {
+      "name_en": "Chain Vest",
+      "name_ko": "쇠사슬 조끼"
+    },
+    "TFT_Item_SparringGloves": {
+      "name_en": "Sparring Gloves",
+      "name_ko": "연습용 장갑"
+    },
+    "TFT_Item_GiantsBelt": {
+      "name_en": "Giant's Belt",
+      "name_ko": "거인의 허리띠"
+    },
+    "TFT_Item_Spatula": {
+      "name_en": "Spatula",
+      "name_ko": "뒤집개"
+    },
+    "TFT_Item_NeedlesslyLargeRod": {
+      "name_en": "Needlessly Large Rod",
+      "name_ko": "쓸데없이 큰 지팡이"
+    },
+    "TFT_Item_NegatronCloak": {
+      "name_en": "Negatron Cloak",
+      "name_ko": "음전자 망토"
+    },
+    "TFT_Item_RecurveBow": {
+      "name_en": "Recurve Bow",
+      "name_ko": "곡궁"
+    },
+    "TFT_Item_TearOfTheGoddess": {
+      "name_en": "Tear of the Goddess",
+      "name_ko": "여신의 눈물"
+    },
+    "TFT_Item_FryingPan": {
+      "name_en": "Frying Pan",
+      "name_ko": "프라이팬"
+    },
+    "TFT_Item_Bloodthirster": {
+      "name_en": "Bloodthirster",
+      "name_ko": "피바라기"
+    },
+    "TFT_Item_BrambleVest": {
+      "name_en": "Bramble Vest",
+      "name_ko": "덤불 조끼"
+    },
+    "TFT_Item_Deathblade": {
+      "name_en": "Deathblade",
+      "name_ko": "죽음의 검"
+    },
+    "TFT_Item_DragonsClaw": {
+      "name_en": "Dragon's Claw",
+      "name_ko": "용의 발톱"
+    },
+    "TFT_Item_ForceOfNature": {
+      "name_en": "Tactician's Crown",
+      "name_ko": "전략가의 왕관"
+    },
+    "TFT_Item_ThiefsGloves": {
+      "name_en": "Thief's Gloves",
+      "name_ko": "도적의 장갑"
+    },
+    "TFT_Item_FrozenHeart": {
+      "name_en": "Protector's Vow",
+      "name_ko": "수호자의 맹세"
+    },
+    "TFT_Item_MadredsBloodrazor": {
+      "name_en": "Giant Slayer",
+      "name_ko": "거인 학살자"
+    },
+    "TFT_Item_GuardianAngel": {
+      "name_en": "Edge of Night",
+      "name_ko": "밤의 끝자락"
+    },
+    "TFT_Item_GuinsoosRageblade": {
+      "name_en": "Guinsoo's Rageblade",
+      "name_ko": "구인수의 격노검"
+    },
+    "TFT_Item_UnstableConcoction": {
+      "name_en": "Hand Of Justice",
+      "name_ko": "정의의 손길"
+    },
+    "TFT_Item_HextechGunblade": {
+      "name_en": "Hextech Gunblade",
+      "name_ko": "마법공학 총검"
+    },
+    "TFT_Item_InfinityEdge": {
+      "name_en": "Infinity Edge",
+      "name_ko": "무한의 대검"
+    },
+    "TFT_Item_IonicSpark": {
+      "name_en": "Ionic Spark",
+      "name_ko": "이온 충격기"
+    },
+    "TFT_Item_JeweledGauntlet": {
+      "name_en": "Jeweled Gauntlet",
+      "name_ko": "보석 건틀릿"
+    },
+    "TFT_Item_LastWhisper": {
+      "name_en": "Last Whisper",
+      "name_ko": "최후의 속삭임"
+    },
+    "TFT_Item_ArchangelsStaff": {
+      "name_en": "Archangel's Staff",
+      "name_ko": "대천사의 지팡이"
+    },
+    "TFT_Item_Quicksilver": {
+      "name_en": "Quicksilver",
+      "name_ko": "수은"
+    },
+    "TFT_Item_Morellonomicon": {
+      "name_en": "Morellonomicon",
+      "name_ko": "모렐로노미콘"
+    },
+    "TFT_Item_PowerGauntlet": {
+      "name_en": "Striker's Flail",
+      "name_ko": "타격대의 철퇴"
+    },
+    "TFT_Item_RabadonsDeathcap": {
+      "name_en": "Rabadon's Deathcap",
+      "name_ko": "라바돈의 죽음모자"
+    },
+    "TFT_Item_RapidFireCannon": {
+      "name_en": "Red Buff",
+      "name_ko": "붉은 덩굴정령"
+    },
+    "TFT_Item_RedBuff": {
+      "name_en": "Sunfire Cape",
+      "name_ko": "태양불꽃 망토"
+    },
+    "TFT_Item_Redemption": {
+      "name_en": "Spirit Visage",
+      "name_ko": "정령의 형상"
+    },
+    "TFT_Item_RunaansHurricane": {
+      "name_en": "Kraken's Fury",
+      "name_ko": "크라켄의 분노"
+    },
+    "TFT_Item_SpearOfShojin": {
+      "name_en": "Spear of Shojin",
+      "name_ko": "쇼진의 창"
+    },
+    "TFT_Item_StatikkShiv": {
+      "name_en": "Void Staff",
+      "name_ko": "공허의 지팡이"
+    },
+    "TFT_Item_GargoyleStoneplate": {
+      "name_en": "Gargoyle Stoneplate",
+      "name_ko": "가고일 돌갑옷"
+    },
+    "TFT_Item_TitansResolve": {
+      "name_en": "Titan's Resolve",
+      "name_ko": "거인의 결의"
+    },
+    "TFT_Item_WarmogsArmor": {
+      "name_en": "Warmog's Armor",
+      "name_ko": "워모그의 갑옷"
+    },
+    "TFT_Item_SpectralGauntlet": {
+      "name_en": "Evenshroud",
+      "name_ko": "저녁갑주"
+    },
+    "TFT_Item_Crownguard": {
+      "name_en": "Crownguard",
+      "name_ko": "크라운가드"
+    },
+    "TFT_Item_NightHarvester": {
+      "name_en": "Steadfast Heart",
+      "name_ko": "굳건한 심장"
+    },
+    "TFT_Item_SteraksGage": {
+      "name_en": "Sterak's Gage",
+      "name_ko": "스테락의 도전"
+    },
+    "TFT_Item_BlueBuff": {
+      "name_en": "Blue Buff",
+      "name_ko": "푸른 파수꾼"
+    },
+    "TFT_Item_AdaptiveHelm": {
+      "name_en": "Adaptive Helm",
+      "name_ko": "적응형 투구"
+    },
+    "TFT_Item_Leviathan": {
+      "name_en": "Nashor's Tooth",
+      "name_ko": "내셔의 이빨"
+    },
+    "TFT_Item_TacticiansRing": {
+      "name_en": "Tactician's Cape",
+      "name_ko": "전략가의 망토"
+    },
+    "TFT_Item_TacticiansScepter": {
+      "name_en": "Tactician's Shield",
+      "name_ko": "전략가의 방패"
+    },
+    "TFT5_Item_TrapClawRadiant": {
+      "name_en": "Radiant Striker's Flail",
+      "name_ko": "찬란한 타격대의 철퇴"
+    },
+    "TFT5_Item_BloodthirsterRadiant": {
+      "name_en": "Radiant Bloodthirster",
+      "name_ko": "찬란한 피바라기"
+    },
+    "TFT5_Item_IonicSparkRadiant": {
+      "name_en": "Radiant Ionic Spark",
+      "name_ko": "찬란한 이온 충격기"
+    },
+    "TFT5_Item_GiantSlayerRadiant": {
+      "name_en": "Radiant Giant Slayer",
+      "name_ko": "찬란한 거인 학살자"
+    },
+    "TFT5_Item_DragonsClawRadiant": {
+      "name_en": "Radiant Dragon's Claw",
+      "name_ko": "찬란한 용의 발톱"
+    },
+    "TFT5_Item_GargoyleStoneplateRadiant": {
+      "name_en": "Radiant Gargoyle Stoneplate",
+      "name_ko": "찬란한 가고일 돌갑옷"
+    },
+    "TFT5_Item_LastWhisperRadiant": {
+      "name_en": "Radiant Last Whisper",
+      "name_ko": "찬란한 최후의 속삭임"
+    },
+    "TFT5_Item_HandOfJusticeRadiant": {
+      "name_en": "Radiant Hand of Justice",
+      "name_ko": "찬란한 정의의 손길"
+    },
+    "TFT5_Item_FrozenHeartRadiant": {
+      "name_en": "Radiant Protector's Vow",
+      "name_ko": "찬란한 수호자의 맹세"
+    },
+    "TFT5_Item_JeweledGauntletRadiant": {
+      "name_en": "Radiant Jeweled Gauntlet",
+      "name_ko": "찬란한 보석 건틀릿"
+    },
+    "TFT5_Item_GuardianAngelRadiant": {
+      "name_en": "Radiant Edge of Night",
+      "name_ko": "찬란한 밤의 끝자락"
+    },
+    "TFT5_Item_GuinsoosRagebladeRadiant": {
+      "name_en": "Radiant Guinsoo's Rageblade",
+      "name_ko": "찬란한 구인수의 격노검"
+    },
+    "TFT5_Item_HextechGunbladeRadiant": {
+      "name_en": "Radiant Hextech Gunblade",
+      "name_ko": "찬란한 마법공학 총검"
+    },
+    "TFT5_Item_DeathbladeRadiant": {
+      "name_en": "Radiant Deathblade",
+      "name_ko": "찬란한 죽음의 검"
+    },
+    "TFT5_Item_MorellonomiconRadiant": {
+      "name_en": "Radiant Morellonomicon",
+      "name_ko": "찬란한 모렐로노미콘"
+    },
+    "TFT5_Item_QuicksilverRadiant": {
+      "name_en": "Radiant Quicksilver",
+      "name_ko": "찬란한 수은"
+    },
+    "TFT5_Item_RabadonsDeathcapRadiant": {
+      "name_en": "Radiant Rabadon's Deathcap",
+      "name_ko": "찬란한 라바돈의 죽음모자"
+    },
+    "TFT5_Item_RedemptionRadiant": {
+      "name_en": "Radiant Spirit Visage",
+      "name_ko": "찬란한 정령의 형상"
+    },
+    "TFT5_Item_RapidFirecannonRadiant": {
+      "name_en": "Radiant Red Buff",
+      "name_ko": "찬란한 붉은 덩굴정령"
+    },
+    "TFT5_Item_ThiefsGlovesRadiant": {
+      "name_en": "Radiant Thief's Gloves",
+      "name_ko": "찬란한 도적의 장갑"
+    },
+    "TFT5_Item_BrambleVestRadiant": {
+      "name_en": "Radiant Bramble Vest",
+      "name_ko": "찬란한 덤불 조끼"
+    },
+    "TFT5_Item_RunaansHurricaneRadiant": {
+      "name_en": "Radiant Kraken's Fury",
+      "name_ko": "찬란한 크라켄의 분노"
+    },
+    "TFT5_Item_SpearOfShojinRadiant": {
+      "name_en": "Radiant Spear of Shojin",
+      "name_ko": "찬란한 쇼진의 창"
+    },
+    "TFT5_Item_StatikkShivRadiant": {
+      "name_en": "Radiant Void Staff",
+      "name_ko": "찬란한 공허의 지팡이"
+    },
+    "TFT5_Item_SunfireCapeRadiant": {
+      "name_en": "Radiant Sunfire Cape",
+      "name_ko": "찬란한 태양불꽃 망토"
+    },
+    "TFT5_Item_TitansResolveRadiant": {
+      "name_en": "Radiant Titan's Resolve",
+      "name_ko": "찬란한 거인의 결의"
+    },
+    "TFT5_Item_ArchangelsStaffRadiant": {
+      "name_en": "Radiant Archangel's Staff",
+      "name_ko": "찬란한 대천사의 지팡이"
+    },
+    "TFT5_Item_WarmogsArmorRadiant": {
+      "name_en": "Radiant Warmog's Armor",
+      "name_ko": "찬란한 워모그의 갑옷"
+    },
+    "TFT5_Item_InfinityEdgeRadiant": {
+      "name_en": "Radiant Infinity Edge",
+      "name_ko": "찬란한 무한의 대검"
+    },
+    "TFT5_Item_SpectralGauntletRadiant": {
+      "name_en": "Radiant Evenshroud",
+      "name_ko": "찬란한 저녁갑주"
+    },
+    "TFT5_Item_CrownguardRadiant": {
+      "name_en": "Radiant Crownguard",
+      "name_ko": "찬란한 크라운가드"
+    },
+    "TFT5_Item_NightHarvesterRadiant": {
+      "name_en": "Radiant Steadfast Heart",
+      "name_ko": "찬란한 굳건한 심장"
+    },
+    "TFT5_Item_SteraksGageRadiant": {
+      "name_en": "Radiant Sterak's Gage",
+      "name_ko": "찬란한 스테락의 도전"
+    },
+    "TFT5_Item_BlueBuffRadiant": {
+      "name_en": "Radiant Blue Buff",
+      "name_ko": "찬란한 푸른 파수꾼"
+    },
+    "TFT5_Item_AdaptiveHelmRadiant": {
+      "name_en": "Radiant Adaptive Helm",
+      "name_ko": "찬란한 적응형 투구"
+    },
+    "TFT5_Item_LeviathanRadiant": {
+      "name_en": "Radiant Nashor's Tooth",
+      "name_ko": "찬란한 내셔의 이빨"
+    },
+    "TFT17_Item_AstronautEmblemItem": {
+      "name_en": "Meeple Emblem",
+      "name_ko": "정령족 상징"
+    },
+    "TFT17_Item_AnimaSquadEmblemItem": {
+      "name_en": "Anima Emblem",
+      "name_ko": "동물특공대 상징"
+    },
+    "TFT17_Item_DRXEmblemItem": {
+      "name_en": "N.O.V.A. Emblem",
+      "name_ko": "N.O.V.A. 상징"
+    },
+    "TFT17_Item_DarkStarEmblemItem": {
+      "name_en": "Dark Star Emblem",
+      "name_ko": "암흑의 별 상징"
+    },
+    "TFT17_Item_FavoredEmblemItem": {
+      "name_en": "Arbiter Emblem",
+      "name_ko": "중재자 상징"
+    },
+    "TFT17_Item_PrimordianEmblemItem": {
+      "name_en": "Primordian Emblem",
+      "name_ko": "태고족 상징"
+    },
+    "TFT17_Item_PsyOpsEmblemItem": {
+      "name_en": "Psionic Emblem",
+      "name_ko": "초능력 상징"
+    },
+    "TFT17_Item_SpaceGrooveEmblemItem": {
+      "name_en": "Space Groove Emblem",
+      "name_ko": "우주 그루브 상징"
+    },
+    "TFT17_Item_StargazerEmblemItem": {
+      "name_en": "Stargazer Emblem",
+      "name_ko": "별돌보미 상징"
+    },
+    "TFT17_Item_PulsefireEmblemItem": {
+      "name_en": "Timebreaker Emblem",
+      "name_ko": "시간 균열자 상징"
+    },
+    "TFT17_Item_HPTankEmblemItem": {
+      "name_en": "Brawler Emblem",
+      "name_ko": "싸움꾼 상징"
+    },
+    "TFT17_Item_ResistTankEmblemItem": {
+      "name_en": "Bastion Emblem",
+      "name_ko": "요새 상징"
+    },
+    "TFT17_Item_ASTraitEmblemItem": {
+      "name_en": "Challenger Emblem",
+      "name_ko": "도전자 상징"
+    },
+    "TFT17_Item_MeleeTraitEmblemItem": {
+      "name_en": "Marauder Emblem",
+      "name_ko": "습격자 상징"
+    },
+    "TFT17_Item_ShieldTankEmblemItem": {
+      "name_en": "Vanguard Emblem",
+      "name_ko": "선봉대 상징"
+    },
+    "TFT17_Item_FlexTraitEmblemItem": {
+      "name_en": "Voyager Emblem",
+      "name_ko": "여행자 상징"
+    },
+    "TFT17_Item_SummonTraitEmblemItem": {
+      "name_en": "Shepherd Emblem",
+      "name_ko": "길잡이 상징"
+    },
+    "TFT17_Item_AssassinTraitEmblemItem": {
+      "name_en": "Rogue Emblem",
+      "name_ko": "불한당 상징"
+    },
+    "TFT17_Item_RangedTraitEmblemItem": {
+      "name_en": "Sniper Emblem",
+      "name_ko": "저격수 상징"
+    },
+    "TFT_Item_Shroud": {
+      "name_en": "Shroud of Stillness",
+      "name_ko": "침묵의 장막"
+    },
+    "TFT_Item_Chalice": {
+      "name_en": "Chalice of Power",
+      "name_ko": "힘의 성배"
+    },
+    "TFT_Item_LocketOfTheIronSolari": {
+      "name_en": "Locket of the Iron Solari",
+      "name_ko": "강철의 솔라리 펜던트"
+    },
+    "TFT_Item_ZekesHerald": {
+      "name_en": "Zeke's Herald",
+      "name_ko": "지크의 전령"
+    },
+    "TFT_Item_Zephyr": {
+      "name_en": "Zephyr",
+      "name_ko": "서풍"
+    },
+    "TFT4_Item_OrnnObsidianCleaver": {
+      "name_en": "Obsidian Cleaver",
+      "name_ko": "흑요석 양날 도끼"
+    },
+    "TFT4_Item_OrnnRanduinsSanctum": {
+      "name_en": "Randuin's Omen",
+      "name_ko": "란두인의 예언"
+    },
+    "TFT5_Item_ZzRotPortalRadiant": {
+      "name_en": "Zz'Rot Portal",
+      "name_ko": "즈롯 차원문"
+    },
+    "TFT7_Item_ShimmerscaleHeartOfGold": {
+      "name_en": "Needlessly Big Gem",
+      "name_ko": "쓸데없이 큰 보석"
+    },
+    "TFT_Item_AegisOfTheLegion": {
+      "name_en": "Aegis of the Legion",
+      "name_ko": "군단의 방패"
+    },
+    "TFT_Item_RadiantVirtue": {
+      "name_en": "Virtue of the Martyr",
+      "name_ko": "순교자의 미덕"
+    },
+    "TFT_Item_BansheesVeil": {
+      "name_en": "Banshee's Veil",
+      "name_ko": "밴시의 장막"
+    },
+    "TFT_Item_EternalFlame": {
+      "name_en": "The Eternal Flame",
+      "name_ko": "영원한 불꽃"
+    },
+    "TFT_Item_SupportKnightsVow": {
+      "name_en": "Knight's Vow",
+      "name_ko": "기사의 맹세"
+    },
+    "TFT_Item_Moonstone": {
+      "name_en": "Moonstone Renewer",
+      "name_ko": "월석 재생기"
+    },
+    "TFT_Item_UnstableTreasureChest": {
+      "name_en": "Unstable Treasure Chest",
+      "name_ko": "불안정한 보물 상자"
+    },
+    "TFT4_Item_OrnnDeathsDefiance": {
+      "name_en": "Death's Defiance",
+      "name_ko": "죽음의 저항"
+    },
+    "TFT4_Item_OrnnTheCollector": {
+      "name_en": "Gold Collector",
+      "name_ko": "황금 징수의 총"
+    },
+    "TFT4_Item_OrnnInfinityForce": {
+      "name_en": "Infinity Force",
+      "name_ko": "무한한 삼위일체"
+    },
+    "TFT4_Item_OrnnMuramana": {
+      "name_en": "Manazane",
+      "name_ko": "마나자네"
+    },
+    "TFT4_Item_OrnnZhonyasParadox": {
+      "name_en": "Zhonya's Paradox",
+      "name_ko": "존야의 역설"
+    },
+    "TFT9_Item_OrnnHullbreaker": {
+      "name_en": "Hullcrusher",
+      "name_ko": "선체분쇄자"
+    },
+    "TFT9_Item_OrnnTrickstersGlass": {
+      "name_en": "Trickster's Glass",
+      "name_ko": "속임수 거울"
+    },
+    "TFT9_Item_OrnnDeathfireGrasp": {
+      "name_en": "Deathfire Grasp",
+      "name_ko": "죽음불꽃 손아귀"
+    },
+    "TFT9_Item_OrnnHorizonFocus": {
+      "name_en": "Sniper's Focus",
+      "name_ko": "저격수의 집중"
+    },
+    "TFT9_Item_OrnnPrototypeForge": {
+      "name_en": "Blacksmith's Gloves",
+      "name_ko": "대장장이의 장갑"
+    },
+    "TFT7_Item_ShimmerscaleGamblersBlade": {
+      "name_en": "Gambler's Blade",
+      "name_ko": "도박꾼의 칼날"
+    },
+    "TFT_Item_Artifact_TalismanOfAscension": {
+      "name_en": "Talisman Of Ascension",
+      "name_ko": "승천의 부적"
+    },
+    "TFT_Item_Artifact_Fishbones": {
+      "name_en": "Fishbones",
+      "name_ko": "생선대가리"
+    },
+    "TFT_Item_Artifact_SuspiciousTrenchCoat": {
+      "name_en": "Suspicious Trench Coat",
+      "name_ko": "수상한 외투"
+    },
+    "TFT_Item_Artifact_HorizonFocus": {
+      "name_en": "Horizon Focus",
+      "name_ko": null
+    },
+    "TFT_Item_Artifact_Mittens": {
+      "name_en": "Mittens",
+      "name_ko": "방한 장갑"
+    },
+    "TFT_Item_Artifact_UnendingDespair": {
+      "name_en": "Unending Despair",
+      "name_ko": "끝없는 절망"
+    },
+    "TFT_Item_Artifact_RapidFirecannon": {
+      "name_en": "Rapid Firecannon",
+      "name_ko": "고속 연사포"
+    },
+    "TFT_Item_Artifact_InnervatingLocket": {
+      "name_en": "Innervating Locket",
+      "name_ko": "활력증진의 펜던트"
+    },
+    "TFT_Item_Artifact_LudensTempest": {
+      "name_en": "Luden's Tempest",
+      "name_ko": "루덴의 폭풍"
+    },
+    "TFT_Item_Artifact_SilvermereDawn": {
+      "name_en": "Silvermere Dawn",
+      "name_ko": "은빛 여명"
+    },
+    "TFT_Item_Artifact_ProwlersClaw": {
+      "name_en": "Prowler's Claw",
+      "name_ko": "자객의 발톱"
+    },
+    "TFT_Item_Artifact_SpectralCutlass": {
+      "name_en": "Spectral Cutlass",
+      "name_ko": "망령 해적검"
+    },
+    "TFT_Item_Artifact_BlightingJewel": {
+      "name_en": "Blighting Jewel",
+      "name_ko": "역병의 보석"
+    },
+    "TFT_Item_Artifact_WitsEnd": {
+      "name_en": "Wit's End",
+      "name_ko": "마법사의 최후"
+    },
+    "TFT_Item_Artifact_LichBane": {
+      "name_en": "Lich Bane",
+      "name_ko": "리치베인"
+    },
+    "TFT_Item_Artifact_LightshieldCrest": {
+      "name_en": "Lightshield Crest",
+      "name_ko": "라이트실드 문장"
+    },
+    "TFT_Item_Artifact_SeekersArmguard": {
+      "name_en": "Seeker's Armguard",
+      "name_ko": "추적자의 팔목 보호대"
+    },
+    "TFT7_Item_ShimmerscaleMogulsMail": {
+      "name_en": "Mogul's Mail",
+      "name_ko": "거물의 갑옷"
+    },
+    "TFT_Item_Artifact_NavoriFlickerblades": {
+      "name_en": "Flickerblades",
+      "name_ko": "명멸검"
+    },
+    "TFT_Item_Artifact_StatikkShiv": {
+      "name_en": "Statikk Shiv",
+      "name_ko": "스태틱의 단검"
+    },
+    "TFT_Item_Artifact_TheIndomitable": {
+      "name_en": "The Indomitable",
+      "name_ko": "불굴"
+    },
+    "TFT_Item_Artifact_Dawncore": {
+      "name_en": "Dawncore",
+      "name_ko": "새벽심장"
+    },
+    "TFT_Item_Artifact_TitanicHydra": {
+      "name_en": "Titanic Hydra",
+      "name_ko": "거대한 히드라"
+    },
+    "TFT_Item_Artifact_MirroredPersona": {
+      "name_en": "Mirrored Persona",
+      "name_ko": "거울의 환영"
+    },
+    "TFT_Item_Artifact_LesserMirroredPersona": {
+      "name_en": "Lesser Mirrored Persona",
+      "name_ko": "하급 거울의 환영"
+    },
+    "TFT_Item_Artifact_HellfireHatchet": {
+      "name_en": "Hellfire Hatchet",
+      "name_ko": "지옥불 손도끼"
+    },
+    "TFT_Item_Artifact_CappaJuice": {
+      "name_en": "Cappa Juice",
+      "name_ko": "카파 주스"
+    },
+    "TFT_Item_Artifact_ShadowPuppet": {
+      "name_en": "Shadow Puppet",
+      "name_ko": "그림자 꼭두각시"
+    },
+    "TFT_Item_Artifact_MendingEchoes": {
+      "name_en": "Mending Echoes",
+      "name_ko": "회복의 메아리"
+    },
+    "TFT_Item_Artifact_EternalPact": {
+      "name_en": "Eternal Pact",
+      "name_ko": "영원한 서약"
+    },
+    "TFT_Item_Artifact_VoidGauntlet": {
+      "name_en": "Void Gauntlet",
+      "name_ko": "공허 건틀릿"
+    },
+    "TFT_Item_Artifact_AegisOfDawn": {
+      "name_en": "Aegis of Dawn",
+      "name_ko": "새벽의 방패"
+    },
+    "TFT_Item_Artifact_AegisOfDusk": {
+      "name_en": "Aegis of Dusk",
+      "name_ko": "황혼의 방패"
+    },
+    "TFT16_TheDarkinScythe": {
+      "name_en": "The Darkin Scythe",
+      "name_ko": "다르킨의 낫"
+    },
+    "TFT16_TheDarkinAegis": {
+      "name_en": "The Darkin Aegis",
+      "name_ko": "다르킨의 방패"
+    },
+    "TFT16_TheDarkinBow": {
+      "name_en": "The Darkin Bow",
+      "name_ko": "다르킨의 활"
+    },
+    "TFT16_TheDarkinStaff": {
+      "name_en": "The Darkin Staff",
+      "name_ko": "다르킨의 지팡이"
+    },
+    "TFT4_Item_OrnnAnimaVisage": {
+      "name_en": "Anima Visage",
+      "name_ko": null
+    },
+    "TFT17_Item_Artifact_ZekesHeraldShadow": {
+      "name_en": "Zeke's Bleak Herald",
+      "name_ko": "지크의 음산한 전령"
+    },
+    "TFT17_Item_Artifact_ThreshLantern": {
+      "name_en": "Thresh's Lantern",
+      "name_ko": "쓰레쉬의 랜턴"
+    },
+    "TFT17_Item_Artifact_KayleArtifact": {
+      "name_en": "Kayle's Exaltation",
+      "name_ko": null
+    },
+    "TFT17_Item_Artifact_EvelynnArtifact": {
+      "name_en": "Evelynn's Instinct",
+      "name_ko": "이블린의 본능"
+    },
+    "TFT17_Item_Artifact_EkkoArtifact": {
+      "name_en": "Ekko's Patience",
+      "name_ko": null
+    },
+    "TFT17_Item_Artifact_SorakaArtifact": {
+      "name_en": "Soraka's Miracle",
+      "name_ko": "소라카의 기적"
+    },
+    "TFT17_Item_Artifact_YasuoArtifact": {
+      "name_en": "Yasuo's Bladework",
+      "name_ko": "야스오의 검술"
+    },
+    "TFT17_Item_Artifact_VarusArtifact": {
+      "name_en": "Varus's Obsession",
+      "name_ko": "바루스의 집착"
+    },
+    "TFT17_Item_Artifact_AhriArtifact": {
+      "name_en": "Ahri's Aura",
+      "name_ko": "아리의 오라"
+    },
+    "TFT17_Item_PsyOps_GrenadeMod": {
+      "name_en": "Biomatter Preserver",
+      "name_ko": "유기물 보존기"
+    },
+    "TFT17_Item_PsyOps_TargetlockMod": {
+      "name_en": "Target-Lock Optics",
+      "name_ko": "표적 고정 광학 장치"
+    },
+    "TFT17_Item_PsyOps_SemiconductorMod": {
+      "name_en": "Semiconductor",
+      "name_ko": "반도체"
+    },
+    "TFT17_Item_PsyOps_SympatheticImplantMod": {
+      "name_en": "Sympathetic Implant",
+      "name_ko": "공감 임플란트"
+    },
+    "TFT17_Item_PsyOps_ChemicalCapacitorMod": {
+      "name_en": "Malware Matrix",
+      "name_ko": "악성코드 매트릭스"
+    },
+    "TFT17_Item_PsyOps_ChemicalCapacitorMod_Radiant": {
+      "name_en": "Malware Matrix",
+      "name_ko": "악성코드 매트릭스"
+    },
+    "TFT17_Item_PsyOps_DroneMod_Radiant": {
+      "name_en": "Drone Uplink",
+      "name_ko": "드론 업링크"
+    },
+    "TFT17_Item_PsyOps_GrenadeMod_Radiant": {
+      "name_en": "Biomatter Preserver",
+      "name_ko": "유기물 보존기"
+    },
+    "TFT17_Item_PsyOps_SemiconductorMod_Radiant": {
+      "name_en": "Semiconductor",
+      "name_ko": "반도체"
+    },
+    "TFT17_Item_PsyOps_SympatheticImplantMod_Radiant": {
+      "name_en": "Sympathetic Implant",
+      "name_ko": "공감 임플란트"
+    },
+    "TFT17_Item_PsyOps_TargetlockMod_Radiant": {
+      "name_en": "Target-Lock Optics",
+      "name_ko": "표적 고정 광학 장치"
+    },
+    "TFT17_Item_PsyOps_DroneMod": {
+      "name_en": "Drone Uplink",
+      "name_ko": "드론 업링크"
+    },
+    "TFT_Flex": {
+      "name_en": "+1 Flex Item",
+      "name_ko": null
+    },
+    "TFT_Flex_2": {
+      "name_en": "+2 Flex Item",
+      "name_ko": null
+    },
+    "TFT17_Item_Artifact_KayleArtifact_Radiant": {
+      "name_en": "Kayle's Radiant Exaltation",
+      "name_ko": "케일의 찬란한 승천"
+    },
+    "TFT17_AnimaSquadItem_Tier2_IceblastArmor": {
+      "name_en": "Iceblast Armor",
+      "name_ko": "얼음작렬 갑옷"
+    },
+    "TFT17_AnimaSquadItem_Tier2_SearingShortbow": {
+      "name_en": "Searing Shortbow",
+      "name_ko": "타오르는 단궁"
+    },
+    "TFT17_AnimaSquadItem_Tier1_SavageSlicer": {
+      "name_en": "Savage Slicer",
+      "name_ko": "포악한 절단검"
+    },
+    "TFT17_AnimaSquadItem_Tier2_Annihilator": {
+      "name_en": "The Annihilator",
+      "name_ko": "절멸자"
+    },
+    "TFT17_AnimaSquadItem_Tier2_UwuBlaster": {
+      "name_en": "UwU Blaster",
+      "name_ko": "귀여운 발사기"
+    },
+    "TFT17_AnimaSquadItem_Tier2_BattleBunnyCrossbow": {
+      "name_en": "Battle Bunny Crossbow",
+      "name_ko": "전투 토끼 석궁"
+    },
+    "TFT17_AnimaSquadItem_Tier1_RocketSwarm": {
+      "name_en": "Rocket Swarm",
+      "name_ko": "로켓 연사"
+    },
+    "TFT17_AnimaSquadItem_Tier2_CyclonicSlicers": {
+      "name_en": "Cyclonic Slicers",
+      "name_ko": "회오리 칼날"
+    },
+    "TFT17_AnimaSquadItem_Tier2_RadiantField": {
+      "name_en": "Radiant Field",
+      "name_ko": "광휘 역장"
+    },
+    "TFT17_AnimaSquadItem_Tier2_LionessLament": {
+      "name_en": "Lioness's Lament",
+      "name_ko": "사자의 비가"
+    },
+    "TFT17_AnimaSquadItem_Tier1_GuidingHex": {
+      "name_en": "Guiding Hex",
+      "name_ko": "인도의 저주"
+    },
+    "TFT17_AnimaSquadItem_Tier1_TentacleSlam": {
+      "name_en": "Tentacle Slam",
+      "name_ko": "촉수 후려치기"
+    },
+    "TFT17_AnimaSquadItem_Tier2_EchoingBatblades": {
+      "name_en": "Echoing Batblades",
+      "name_ko": "메아리치는 박쥐칼날"
+    },
+    "TFT17_AnimaSquadItem_Tier0_ClunkyPrototype": {
+      "name_en": "Broken Prototype",
+      "name_ko": "망가진 시제품"
+    },
+    "TFT17_AnimaSquadItem_Tier0_SparkingPrototype": {
+      "name_en": "Sparking Prototype",
+      "name_ko": "불꽃 튀는 시제품"
+    },
+    "TFT17_AnimaSquadItem_Tier0_LeakyPrototype": {
+      "name_en": "Leaky Prototype",
+      "name_ko": "엉성한 시제품"
+    },
+    "TFT17_AnimaSquadItem_Tier3_RadiantField": {
+      "name_en": "Solar Eclipse",
+      "name_ko": "일식"
+    },
+    "TFT17_AnimaSquadItem_Tier3_Annihilator": {
+      "name_en": "Animapocalypse",
+      "name_ko": "동물의 종말"
+    },
+    "TFT17_AnimaSquadItem_Tier3_SearingShortbow": {
+      "name_en": "Evolved Embershot",
+      "name_ko": "진화한 불꽃 사격"
+    },
+    "TFT17_AnimaSquadItem_Tier3_LionessLament": {
+      "name_en": "Leonine Lamentation",
+      "name_ko": "사자의 비탄"
+    },
+    "TFT17_AnimaSquadItem_Tier3_CyclonicSlicers": {
+      "name_en": "Unceasing Cyclone",
+      "name_ko": "그치지 않는 폭풍"
+    },
+    "TFT17_AnimaSquadItem_Tier3_UwuBlaster": {
+      "name_en": "OwO Blaster",
+      "name_ko": "왕 귀여운 발사기"
+    },
+    "TFT17_AnimaSquadItem_Tier4_Omniweapon": {
+      "name_en": "Omniweapon",
+      "name_ko": "만능 무기"
+    },
+    "TFT17_AnimaSquadItem_Tier3_BattleBunnyCrossbow": {
+      "name_en": "Bunny Prime Ballista",
+      "name_ko": "토끼 프라임 거대 석궁"
+    },
+    "TFT17_AnimaSquadItem_Tier3_IceblastArmor": {
+      "name_en": "Deep Freeze",
+      "name_ko": "완전 빙결"
+    },
+    "TFT17_AnimaSquadItem_Tier3_EchoingBatblades": {
+      "name_en": "Vayne's Chromablades",
+      "name_ko": "베인의 크로마칼날"
+    },
+    "TFT17_GravesTrait_FrameOffense": {
+      "name_en": "Assault Frame",
+      "name_ko": "맹공 프레임"
+    },
+    "TFT17_GravesTrait_FrameDefense": {
+      "name_en": "Reinforced Frame",
+      "name_ko": "보강 프레임"
+    },
+    "TFT17_GravesTrait_FrameSupport": {
+      "name_en": "Support Frame",
+      "name_ko": "지원 프레임"
+    },
+    "TFT17_GravesTrait_Offense_Backup": {
+      "name_en": "Tune-Up",
+      "name_ko": "조정"
+    },
+    "TFT17_GravesTrait_Offense_CloseQuarters": {
+      "name_en": "Assault Frame",
+      "name_ko": "맹공 프레임"
+    },
+    "TFT17_GravesTrait_Offense_GravBooster": {
+      "name_en": "Grav Booster",
+      "name_ko": "중력 증폭기"
+    },
+    "TFT17_GravesTrait_Offense_EmergencyShielding": {
+      "name_en": "Emergency Shielding",
+      "name_ko": "긴급 보호막"
+    },
+    "TFT17_GravesTrait_Offense_HeavyPlating": {
+      "name_en": "Heavy Plating",
+      "name_ko": "두꺼운 장갑판"
+    },
+    "TFT17_GravesTrait_Offense_Buckshot": {
+      "name_en": "Buckshot",
+      "name_ko": "산탄 사격"
+    },
+    "TFT17_GravesTrait_Offense_Buckshot2": {
+      "name_en": "Buckshot+",
+      "name_ko": "산탄 사격+"
+    },
+    "TFT17_GravesTrait_Offense_Buckshot3": {
+      "name_en": "Buckshot++",
+      "name_ko": "산탄 사격++"
+    },
+    "TFT17_GravesTrait_Offense_Choke": {
+      "name_en": "Choke",
+      "name_ko": "초크"
+    },
+    "TFT17_GravesTrait_Offense_LaserBallistics": {
+      "name_en": "Laser Ballistics",
+      "name_ko": "레이저 탄도학"
+    },
+    "TFT17_GravesTrait_Offense_LaserBallistics2": {
+      "name_en": "Laser Ballistics+",
+      "name_ko": "레이저 탄도학+"
+    },
+    "TFT17_GravesTrait_Offense_LaserBallistics3": {
+      "name_en": "LaserBallistics++",
+      "name_ko": "레이저 탄도학++"
+    },
+    "TFT17_GravesTrait_Offense_Meltthrough": {
+      "name_en": "Meltthrough",
+      "name_ko": "용융 관통"
+    },
+    "TFT17_GravesTrait_Offense_DoubleTap": {
+      "name_en": "Marksman Frame",
+      "name_ko": "사수 프레임"
+    },
+    "TFT17_GravesTrait_Offense_DoubleTap2": {
+      "name_en": "Double Tap",
+      "name_ko": "한 발에 두 놈"
+    },
+    "TFT17_GravesTrait_Offense_TripleTap": {
+      "name_en": "Triple Tap",
+      "name_ko": "한 발에 세 놈"
+    },
+    "TFT17_GravesTrait_Offense_RevUp": {
+      "name_en": "Rev-Up",
+      "name_ko": "엔진 가동"
+    },
+    "TFT17_GravesTrait_Offense_RevUp2": {
+      "name_en": "Rev-Up+",
+      "name_ko": "엔진 가동+"
+    },
+    "TFT17_GravesTrait_Offense_RipperBullets": {
+      "name_en": "Ripper Bullets",
+      "name_ko": "파쇄 탄환"
+    },
+    "TFT17_GravesTrait_Offense_RipperBullets2": {
+      "name_en": "Ripper Bullets+",
+      "name_ko": "파쇄 탄환+"
+    },
+    "TFT17_GravesTrait_Offense_FragmentationRounds": {
+      "name_en": "Fragmentation Rounds",
+      "name_ko": "파편탄"
+    },
+    "TFT17_GravesTrait_Offense_FragmentationRounds2": {
+      "name_en": "Fragmentation Rounds+",
+      "name_ko": "파편탄+"
+    },
+    "TFT17_GravesTrait_Offense_PrecisionScope": {
+      "name_en": "Precision Scope",
+      "name_ko": "정밀 조준경"
+    },
+    "TFT17_GravesTrait_Offense_PrecisionScope2": {
+      "name_en": "Precision Scope+",
+      "name_ko": "정밀 조준경+"
+    },
+    "TFT17_GravesTrait_Offense_PrecisionScope3": {
+      "name_en": "Precision Scope++",
+      "name_ko": "정밀 조준경++"
+    },
+    "TFT17_GravesTrait_Offense_AimAssistant": {
+      "name_en": "Aim-Assistant",
+      "name_ko": "조준 보정"
+    },
+    "TFT17_GravesTrait_Offense_GravBooster2": {
+      "name_en": "Grav Booster+",
+      "name_ko": "중력 증폭기+"
+    },
+    "TFT17_GravesTrait_Offense_EmergencyShielding2": {
+      "name_en": "Emergency Shielding+",
+      "name_ko": "긴급 보호막+"
+    },
+    "TFT17_GravesTrait_Offense_SharpshooterModule": {
+      "name_en": "Power Frame",
+      "name_ko": "위력 프레임"
+    },
+    "TFT17_GravesTrait_Offense_Heartseeker": {
+      "name_en": "Heartseeker",
+      "name_ko": "심장추적자"
+    },
+    "TFT17_GravesTrait_Offense_Heartseeker2": {
+      "name_en": "Heartseeker+",
+      "name_ko": "심장추적자+"
+    },
+    "TFT17_GravesTrait_Offense_Heartseeker3": {
+      "name_en": "Heartseeker++",
+      "name_ko": "심장추적자++"
+    },
+    "TFT17_GravesTrait_Offense_Tankbuster": {
+      "name_en": "Tankbuster",
+      "name_ko": "탱커 파괴자"
+    },
+    "TFT17_GravesTrait_Offense_APRounds": {
+      "name_en": "AP Rounds",
+      "name_ko": "철갑탄"
+    },
+    "TFT17_GravesTrait_Offense_APRounds2": {
+      "name_en": "AP Rounds+",
+      "name_ko": "철갑탄+"
+    },
+    "TFT17_GravesTrait_Offense_LatentExplosion": {
+      "name_en": "Latent Explosion",
+      "name_ko": "지연 폭발"
+    },
+    "TFT17_GravesTrait_Offense_BlastRadius": {
+      "name_en": "Blast Radius",
+      "name_ko": "폭발 반경"
+    },
+    "TFT17_GravesTrait_Offense_BlastRadius2": {
+      "name_en": "Blast Radius+",
+      "name_ko": "폭발 반경+"
+    },
+    "TFT17_GravesTrait_Offense_BlastRadius3": {
+      "name_en": "Blast Radius++",
+      "name_ko": "폭발 반경++"
+    },
+    "TFT17_GravesTrait_Offense_SympatheticDetonation": {
+      "name_en": "Sympathetic Detonation",
+      "name_ko": "공감성 폭발"
+    },
+    "TFT17_GravesTrait_Offense_Coolant": {
+      "name_en": "Coolant",
+      "name_ko": "냉각수"
+    },
+    "TFT17_GravesTrait_Offense_Coolant2": {
+      "name_en": "Coolant+",
+      "name_ko": "냉각수+"
+    },
+    "TFT17_GravesTrait_Offense_VoidCoefficient": {
+      "name_en": "Void Coefficient",
+      "name_ko": "공허 계수"
+    },
+    "TFT17_GravesTrait_Offense_Fission": {
+      "name_en": "Fission",
+      "name_ko": "분열"
+    },
+    "TFT17_GravesTrait_Offense_Fission2": {
+      "name_en": "Fission+",
+      "name_ko": "분열+"
+    },
+    "TFT17_GravesTrait_Offense_Fission3": {
+      "name_en": "Fission++",
+      "name_ko": "분열++"
+    },
+    "TFT17_GravesTrait_Offense_Shockwave": {
+      "name_en": "Shockwave",
+      "name_ko": "충격파"
+    },
+    "TFT17_GravesTrait_Offense_ReactiveArmor": {
+      "name_en": "Reactive Armor",
+      "name_ko": "반응형 방어구"
+    },
+    "TFT17_GravesTrait_Offense_SheerMass": {
+      "name_en": "Sheer Mass",
+      "name_ko": "순수 질량"
+    },
+    "TFT17_GravesTrait_Offense_Nanomachines": {
+      "name_en": "Nanomachines",
+      "name_ko": "나노머신"
+    },
+    "TFT17_GravesTrait_Offense_LeechingImplants": {
+      "name_en": "Leeching Implants",
+      "name_ko": "흡수 임플란트"
+    },
+    "TFT17_GravesTrait_Offense_LeechingImplants2": {
+      "name_en": "Leeching Implants+",
+      "name_ko": "흡수 임플란트+"
+    },
+    "TFT17_EkkoOffering_AnomalyItem": {
+      "name_en": "Anomaly",
+      "name_ko": "이상 현상"
+    },
+    "TFT9_Item_CrownOfDemacia": {
+      "name_en": "Crown of Demacia",
+      "name_ko": "데마시아의 왕관"
+    }
+  },
+  "traits": {
+    "TFT17_VexUniqueTrait": {
+      "name_en": "Doomer",
+      "name_ko": "파멸자"
+    },
+    "TFT17_ASTrait": {
+      "name_en": "Challenger",
+      "name_ko": "도전자"
+    },
+    "TFT17_Stargazer_Wolf": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_APTrait": {
+      "name_en": "Replicator",
+      "name_ko": "복제자"
+    },
+    "TFT17_ShieldTank": {
+      "name_en": "Vanguard",
+      "name_ko": "선봉대"
+    },
+    "TFT17_PsyOps": {
+      "name_en": "Psionic",
+      "name_ko": "초능력"
+    },
+    "TFT17_JhinUniqueTrait": {
+      "name_en": "Eradicator",
+      "name_ko": "말살자"
+    },
+    "TFT17_Timebreaker": {
+      "name_en": "Timebreaker",
+      "name_ko": "시간 균열자"
+    },
+    "TFT17_MeleeTrait": {
+      "name_en": "Marauder",
+      "name_ko": "습격자"
+    },
+    "TFT17_MissFortuneUniqueTrait": {
+      "name_en": "Gun Goddess",
+      "name_ko": "기동총격여신"
+    },
+    "TFT17_AnimaSquad": {
+      "name_en": "Anima",
+      "name_ko": "동물특공대"
+    },
+    "TFT17_Fateweaver": {
+      "name_en": "Fateweaver",
+      "name_ko": "운명술사"
+    },
+    "TFT17_ZedUniqueTrait": {
+      "name_en": "Galaxy Hunter",
+      "name_ko": "은하계 사냥꾼"
+    },
+    "TFT17_ShenUniqueTrait": {
+      "name_en": "Bulwark",
+      "name_ko": "보루"
+    },
+    "TFT17_SonaUniqueTrait": {
+      "name_en": "Commander",
+      "name_ko": "지휘관"
+    },
+    "TFT17_Stargazer_Medallion": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_Stargazer_Huntress": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_Stargazer_Serpent": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_Stargazer_Shield": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_Stargazer_Fountain": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_AssassinTrait": {
+      "name_en": "Rogue",
+      "name_ko": "불한당"
+    },
+    "TFT17_DarkStar": {
+      "name_en": "Dark Star",
+      "name_ko": "암흑의 별"
+    },
+    "TFT17_Primordian": {
+      "name_en": "Primordian",
+      "name_ko": "태고족"
+    },
+    "TFT17_SpaceGroove": {
+      "name_en": "Space Groove",
+      "name_ko": "우주 그루브"
+    },
+    "TFT17_ADMIN": {
+      "name_en": "Arbiter",
+      "name_ko": "중재자"
+    },
+    "TFT17_Stargazer_Mountain": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_SummonTrait": {
+      "name_en": "Shepherd",
+      "name_ko": "길잡이"
+    },
+    "TFT17_RhaastUniqueTrait": {
+      "name_en": "Redeemer",
+      "name_ko": "구원자"
+    },
+    "TFT17_HPTank": {
+      "name_en": "Brawler",
+      "name_ko": "싸움꾼"
+    },
+    "TFT17_ResistTank": {
+      "name_en": "Bastion",
+      "name_ko": "요새"
+    },
+    "TFT17_Astronaut": {
+      "name_en": "Meeple",
+      "name_ko": "정령족"
+    },
+    "TFT17_ManaTrait": {
+      "name_en": "Conduit",
+      "name_ko": "전달자"
+    },
+    "TFT17_Mecha": {
+      "name_en": "Mecha",
+      "name_ko": "메카"
+    },
+    "TFT17_GravesTrait": {
+      "name_en": "Factory New",
+      "name_ko": "최신상"
+    },
+    "TFT17_Stargazer": {
+      "name_en": "Stargazer",
+      "name_ko": "별돌보미"
+    },
+    "TFT17_FlexTrait": {
+      "name_en": "Voyager",
+      "name_ko": "여행자"
+    },
+    "TFT17_BlitzcrankUniqueTrait": {
+      "name_en": "Party Animal",
+      "name_ko": "파티광"
+    },
+    "TFT17_DRX": {
+      "name_en": "N.O.V.A.",
+      "name_ko": "N.O.V.A."
+    },
+    "TFT17_TahmKenchUniqueTrait": {
+      "name_en": "Oracle",
+      "name_ko": "예언자"
+    },
+    "TFT17_RangedTrait": {
+      "name_en": "Sniper",
+      "name_ko": "저격수"
+    },
+    "TFT17_FioraUniqueTrait": {
+      "name_en": "Divine Duelist",
+      "name_ko": "신성 결투가"
+    },
+    "TFT17_MorganaUniqueTrait": {
+      "name_en": "Dark Lady",
+      "name_ko": "어둠의 여인"
+    }
+  },
+  "augments": {
+    "TFT10_Augment_CrashTestDummies": {
+      "name_en": "Crash Test Dummies",
+      "name_ko": "충돌 시험용 봇"
+    },
+    "TFT10_Augment_GoingLong": {
+      "name_en": "Going Long",
+      "name_ko": "장기 투자"
+    },
+    "TFT10_Augment_GoodForSomethingSilver": {
+      "name_en": "Good For Something I",
+      "name_ko": "다 쓸 데가 있다니까 I"
+    },
+    "TFT10_Augment_HeroicGrabBag": {
+      "name_en": "Heroic Grab Bag",
+      "name_ko": "영웅 꾸러미"
+    },
+    "TFT10_Augment_LittleBuddies": {
+      "name_en": "Little Buddies",
+      "name_ko": "작은 친구들"
+    },
+    "TFT11_Augment_AtWhatCost": {
+      "name_en": "At What Cost",
+      "name_ko": "응당한 대가"
+    },
+    "TFT11_Augment_BloodBank": {
+      "name_en": "Lunch Money",
+      "name_ko": "점심값"
+    },
+    "TFT11_Augment_Buildabud": {
+      "name_en": "Build a Bud",
+      "name_ko": "친구 만들기"
+    },
+    "TFT11_Augment_Calltochaos": {
+      "name_en": "Call to Chaos",
+      "name_ko": "혼돈의 부름"
+    },
+    "TFT11_Augment_Epoch": {
+      "name_en": "Epoch",
+      "name_ko": "새로운 시대"
+    },
+    "TFT11_Augment_EpochPlus": {
+      "name_en": "Epoch+",
+      "name_ko": "새로운 시대+"
+    },
+    "TFT11_Augment_Prizefighter": {
+      "name_en": "Prizefighter",
+      "name_ko": "파이트 머니"
+    },
+    "TFT11_Augment_Reinfourcement": {
+      "name_en": "ReinFOURcement",
+      "name_ko": "4후지원"
+    },
+    "TFT11_Augment_Slammin": {
+      "name_en": "Slammin'",
+      "name_ko": "재빠른 무장"
+    },
+    "TFT11_Augment_Slammin_Plus": {
+      "name_en": "Slammin'+",
+      "name_ko": "재빠른 무장+"
+    },
+    "TFT11_Augment_TinyButDeadly": {
+      "name_en": "Tiny, but Deadly",
+      "name_ko": "작지만 치명적인"
+    },
+    "TFT16_Augment_UltraRapidFire": {
+      "name_en": "U.R.F",
+      "name_ko": "U.R.F"
+    },
+    "TFT17_Augment_AatroxCarry": {
+      "name_en": "Stellar Combo",
+      "name_ko": "별빛 연계"
+    },
+    "TFT17_Augment_ApotheoticForge": {
+      "name_en": "Apotheotic Forge",
+      "name_ko": "신성한 대장간"
+    },
+    "TFT17_Augment_GragasCarry": {
+      "name_en": "Self Destruct",
+      "name_ko": "자폭"
+    },
+    "TFT17_Augment_InvaderZed": {
+      "name_en": "Invader Zed",
+      "name_ko": "침략자 제드"
+    },
+    "TFT17_Augment_IvernMinionCarry": {
+      "name_en": "The Big Bang",
+      "name_ko": "빅뱅"
+    },
+    "TFT17_Augment_JaxCarry": {
+      "name_en": "Reach for the Stars",
+      "name_ko": "저 별을 향해"
+    },
+    "TFT17_Augment_MordekaiserCarry": {
+      "name_en": "Heat Death",
+      "name_ko": "뜨거운 죽음"
+    },
+    "TFT17_Augment_NasusCarry": {
+      "name_en": "Bonk!",
+      "name_ko": "꽁!"
+    },
+    "TFT17_Augment_PoppyCarry": {
+      "name_en": "Termeepnal Velocity",
+      "name_ko": "정령단 속도"
+    },
+    "TFT17_Augment_PykeCarry": {
+      "name_en": "Contract Killer",
+      "name_ko": "청부 살인마"
+    },
+    "TFT6_Augment_BandOfThieves2": {
+      "name_en": "Band of Thieves II",
+      "name_ko": "도둑 무리 II"
+    },
+    "TFT6_Augment_BandOfThieves2Plus": {
+      "name_en": "Band of Thieves II+",
+      "name_ko": "도둑 무리 II+"
+    },
+    "TFT6_Augment_BandOfThieves2PlusPlus": {
+      "name_en": "Band of Thieves II++",
+      "name_ko": "도둑 무리 II++"
+    },
+    "TFT6_Augment_CalculatedLoss": {
+      "name_en": "Calculated Loss",
+      "name_ko": "계산된 패배"
+    },
+    "TFT6_Augment_ClearMind": {
+      "name_en": "Clear Mind",
+      "name_ko": "맑은 정신"
+    },
+    "TFT6_Augment_CyberneticImplants2": {
+      "name_en": "Cybernetic Implants",
+      "name_ko": "사이버네틱 이식술"
+    },
+    "TFT6_Augment_CyberneticUplink2": {
+      "name_en": "Cybernetic Uplink",
+      "name_ko": "사이버네틱 통신"
+    },
+    "TFT6_Augment_Distancing": {
+      "name_en": "Exiles I",
+      "name_ko": "추방자 I"
+    },
+    "TFT6_Augment_Distancing2": {
+      "name_en": "Exiles II",
+      "name_ko": "추방자 II"
+    },
+    "TFT6_Augment_Diversify1": {
+      "name_en": "Stand United",
+      "name_ko": "단결된 의지"
+    },
+    "TFT6_Augment_Electrocharge1": {
+      "name_en": "Electrocharge I",
+      "name_ko": "전기 충전 I"
+    },
+    "TFT6_Augment_Electrocharge2": {
+      "name_en": "Electrocharge II",
+      "name_ko": "전기 충전 II"
+    },
+    "TFT6_Augment_ForceOfNature": {
+      "name_en": "New Recruit",
+      "name_ko": "신병"
+    },
+    "TFT6_Augment_GachaAddict": {
+      "name_en": "Prismatic Ticket",
+      "name_ko": "프리즘 티켓"
+    },
+    "TFT6_Augment_HyperRoll": {
+      "name_en": "Hustler",
+      "name_ko": "수완가"
+    },
+    "TFT6_Augment_ItemGrabBag1": {
+      "name_en": "Item Grab Bag",
+      "name_ko": "아이템 꾸러미"
+    },
+    "TFT6_Augment_MakeshiftArmor1": {
+      "name_en": "Makeshift Armor I",
+      "name_ko": "임시변통 방어구 I"
+    },
+    "TFT6_Augment_MakeshiftArmor2": {
+      "name_en": "Makeshift Armor II",
+      "name_ko": "임시변통 방어구 II"
+    },
+    "TFT6_Augment_MaxLevel10": {
+      "name_en": "Level Up!",
+      "name_ko": "레벨 업!"
+    },
+    "TFT6_Augment_OneTwoFive": {
+      "name_en": "One, Two, Five!",
+      "name_ko": "하나, 둘, 다섯!"
+    },
+    "TFT6_Augment_PandorasItems": {
+      "name_en": "Pandora's Items",
+      "name_ko": "판도라의 아이템"
+    },
+    "TFT6_Augment_PortableForge": {
+      "name_en": "Portable Forge",
+      "name_ko": "휴대용 대장간"
+    },
+    "TFT6_Augment_Recombobulator": {
+      "name_en": "Recombobulator",
+      "name_ko": "대격변 생성기"
+    },
+    "TFT6_Augment_SalvageBin": {
+      "name_en": "Salvage Bin",
+      "name_ko": "재활용 쓰레기통"
+    },
+    "TFT6_Augment_SecondWind1": {
+      "name_en": "Second Wind",
+      "name_ko": "재생의 바람"
+    },
+    "TFT6_Augment_SecondWind2": {
+      "name_en": "Second Wind II",
+      "name_ko": "재생의 바람 II"
+    },
+    "TFT6_Augment_TheGoldenEgg": {
+      "name_en": "The Golden Egg",
+      "name_ko": "황금 알"
+    },
+    "TFT6_Augment_ThriftShop": {
+      "name_en": "Wise Spending",
+      "name_ko": "현명한 소비"
+    },
+    "TFT6_Augment_TinyTitans": {
+      "name_en": "Tiny Titans",
+      "name_ko": "꼬마 거인"
+    },
+    "TFT6_Augment_TradeSector": {
+      "name_en": "Trade Sector",
+      "name_ko": "교환의 장"
+    },
+    "TFT6_Augment_TradeSector2": {
+      "name_en": "Commerce Core",
+      "name_ko": "거래 중심지"
+    },
+    "TFT7_Augment_AFK": {
+      "name_en": "AFK",
+      "name_ko": "자리 비움"
+    },
+    "TFT7_Augment_BandOfThieves1": {
+      "name_en": "Band of Thieves",
+      "name_ko": "도둑 무리"
+    },
+    "TFT7_Augment_BestFriends1": {
+      "name_en": "Best Friends I",
+      "name_ko": "단짝 I"
+    },
+    "TFT7_Augment_BestFriends2": {
+      "name_en": "Best Friends II",
+      "name_ko": "단짝 II"
+    },
+    "TFT7_Augment_BirthdayPresents": {
+      "name_en": "Birthday Present",
+      "name_ko": "생일 선물"
+    },
+    "TFT7_Augment_ClutteredMind": {
+      "name_en": "Cluttered Mind",
+      "name_ko": "어수선한 마음"
+    },
+    "TFT7_Augment_CursedCrown": {
+      "name_en": "Cursed Crown",
+      "name_ko": "저주받은 왕관"
+    },
+    "TFT7_Augment_LategameSpecialist": {
+      "name_en": "Late Game Specialist",
+      "name_ko": "후반 전문가"
+    },
+    "TFT7_Augment_LivingForge": {
+      "name_en": "Living Forge",
+      "name_ko": "간이 대장간"
+    },
+    "TFT7_Augment_LuckyGloves": {
+      "name_en": "Lucky Gloves",
+      "name_ko": "행운의 장갑"
+    },
+    "TFT7_Augment_LuckyGlovesPlus": {
+      "name_en": "Lucky Gloves+",
+      "name_ko": "행운의 장갑+"
+    },
+    "TFT7_Augment_PandorasBench": {
+      "name_en": "Pandora's Bench",
+      "name_ko": "판도라의 대기석"
+    },
+    "TFT7_Augment_UrfsGrabBag2": {
+      "name_en": "Urf's Grab Bag",
+      "name_ko": "우르프의 꾸러미"
+    },
+    "TFT8_Augment_SalvageBinPlus": {
+      "name_en": "Salvage Bin+",
+      "name_ko": "재활용 쓰레기통+"
+    },
+    "TFT9_Augment_ArmyBuilding": {
+      "name_en": "Team Building",
+      "name_ko": "끈끈한 우정"
+    },
+    "TFT9_Augment_BardPlaybook1": {
+      "name_en": "Caretaker's Ally",
+      "name_ko": "수호자의 친구"
+    },
+    "TFT9_Augment_BigGrabBag": {
+      "name_en": "Big Grab Bag",
+      "name_ko": "큰 꾸러미"
+    },
+    "TFT9_Augment_BuildingACollectionPlusPlus": {
+      "name_en": "Buried Treasures",
+      "name_ko": "파묻힌 보물"
+    },
+    "TFT9_Augment_Commander_Ascension": {
+      "name_en": "Ascension",
+      "name_ko": "초월"
+    },
+    "TFT9_Augment_Commander_PartialAscension": {
+      "name_en": "Partial Ascension",
+      "name_ko": "불완전한 초월"
+    },
+    "TFT9_Augment_Commander_RollingForDays": {
+      "name_en": "Rolling For Days I",
+      "name_ko": "새로고침의 날 I"
+    },
+    "TFT9_Augment_Commander_TeamingUp1": {
+      "name_en": "Teaming Up",
+      "name_ko": "협력"
+    },
+    "TFT9_Augment_GreaterJeweledLotus": {
+      "name_en": "Jeweled Lotus II",
+      "name_ko": "보석 연꽃 II"
+    },
+    "TFT9_Augment_HealingOrbsI": {
+      "name_en": "Healing Orbs I",
+      "name_ko": "회복의 구 I"
+    },
+    "TFT9_Augment_HealingOrbsII": {
+      "name_en": "Healing Orbs II",
+      "name_ko": "회복의 구 II"
+    },
+    "TFT9_Augment_HedgeFund": {
+      "name_en": "Hedge Fund",
+      "name_ko": "헤지 펀드"
+    },
+    "TFT9_Augment_HedgeFundPlus": {
+      "name_en": "Hedge Fund+",
+      "name_ko": "헤지 펀드+"
+    },
+    "TFT9_Augment_IronAssets": {
+      "name_en": "Iron Assets",
+      "name_ko": "유용한 금속"
+    },
+    "TFT9_Augment_JeweledLotus": {
+      "name_en": "Jeweled Lotus I",
+      "name_ko": "보석 연꽃 I"
+    },
+    "TFT9_Augment_KnowYourEnemy": {
+      "name_en": "Know Your Enemy",
+      "name_ko": "적을 알라"
+    },
+    "TFT9_Augment_LearningFromExperience2": {
+      "name_en": "Patient Study",
+      "name_ko": "끈질긴 연구"
+    },
+    "TFT9_Augment_Legend_HighEndSector": {
+      "name_en": "Shopping Spree",
+      "name_ko": "흥청망청"
+    },
+    "TFT9_Augment_LongTimeCrafting": {
+      "name_en": "Latent Forge",
+      "name_ko": "신중한 제작"
+    },
+    "TFT9_Augment_MissedConnections": {
+      "name_en": "Missed Connections",
+      "name_ko": "연결 불가"
+    },
+    "TFT9_Augment_OneTwosThree": {
+      "name_en": "One Two Three",
+      "name_ko": "하나, 둘, 셋"
+    },
+    "TFT9_Augment_PandorasItems2": {
+      "name_en": "Pandora's Items II",
+      "name_ko": "판도라의 아이템 II"
+    },
+    "TFT9_Augment_PandorasRadiantBox": {
+      "name_en": "Pandora's Items III",
+      "name_ko": "판도라의 아이템 III"
+    },
+    "TFT9_Augment_RiskyMoves": {
+      "name_en": "Risky Moves",
+      "name_ko": "위험한 행보"
+    },
+    "TFT9_Augment_RollTheDice": {
+      "name_en": "Radiant Rascal",
+      "name_ko": "찬란한 장난꾸러기"
+    },
+    "TFT9_Augment_SilverSpoon": {
+      "name_en": "Silver Spoon",
+      "name_ko": "은수저"
+    },
+    "TFT9_Augment_TiniestTitanPlus": {
+      "name_en": "Tiniest Titan",
+      "name_ko": "꼬꼬마 거인"
+    },
+    "TFT9_Augment_TonsOfStats": {
+      "name_en": "Tons of Stats!",
+      "name_ko": "엄청나게 이로운 효과!"
+    },
+    "TFT_Augment_AdvancedLoan": {
+      "name_en": "Advanced Loan",
+      "name_ko": "대출 선지급"
+    },
+    "TFT_Augment_AdvancedLoanPlus": {
+      "name_en": "Advanced Loan+",
+      "name_ko": "대출 선지급+"
+    },
+    "TFT_Augment_AnExaltedAdventure": {
+      "name_en": "An Exalted Adventure",
+      "name_ko": "고귀한 모험"
+    },
+    "TFT_Augment_ArcaneViktory": {
+      "name_en": "Arcane Viktor-y",
+      "name_ko": "아케인 빅토르이!"
+    },
+    "TFT_Augment_AuraFarming": {
+      "name_en": "Aura Farming",
+      "name_ko": "오라 축적"
+    },
+    "TFT_Augment_AwakenedSoul": {
+      "name_en": "Soul Awakening",
+      "name_ko": "영혼 각성"
+    },
+    "TFT_Augment_BacklineBlueprint": {
+      "name_en": "Backline Blueprint",
+      "name_ko": "후방 설계도"
+    },
+    "TFT_Augment_BeltOverflow": {
+      "name_en": "Belt Overflow",
+      "name_ko": "넘치는 허리띠"
+    },
+    "TFT_Augment_BirthdayReunion": {
+      "name_en": "Birthday Reunion",
+      "name_ko": "생일 모임"
+    },
+    "TFT_Augment_BodyguardTraining": {
+      "name_en": "Bodyguard Training",
+      "name_ko": "경호대 훈련"
+    },
+    "TFT_Augment_BoosterPack": {
+      "name_en": "Booster Pack",
+      "name_ko": "부스터 팩"
+    },
+    "TFT_Augment_BoosterPackPlus": {
+      "name_en": "Booster Pack+",
+      "name_ko": "부스터 팩+"
+    },
+    "TFT_Augment_BoosterPackPlusPlus": {
+      "name_en": "Booster Pack++",
+      "name_ko": null
+    },
+    "TFT_Augment_BoxingLessons": {
+      "name_en": "Boxing Lessons",
+      "name_ko": "권투 교습"
+    },
+    "TFT_Augment_BranchingOut": {
+      "name_en": "Branching Out",
+      "name_ko": "가지 뻗기"
+    },
+    "TFT_Augment_BranchingOutPlus": {
+      "name_en": "Branching Out+",
+      "name_ko": "가지 뻗기+"
+    },
+    "TFT_Augment_BronzeForLife2": {
+      "name_en": "Bronze For Life II",
+      "name_ko": "영원한 브론즈 II"
+    },
+    "TFT_Augment_BronzeForLifeI": {
+      "name_en": "Bronze For Life I",
+      "name_ko": "영원한 브론즈 I"
+    },
+    "TFT_Augment_ChargeTransfer1": {
+      "name_en": "Charge Transfer I",
+      "name_ko": "전하 이동 I"
+    },
+    "TFT_Augment_ChargeTransfer2": {
+      "name_en": "Charge Transfer II",
+      "name_ko": "전하 이동 II"
+    },
+    "TFT_Augment_ClimbTheLadder1": {
+      "name_en": "Climb The Ladder I",
+      "name_ko": "서열 상승 I"
+    },
+    "TFT_Augment_ClimbTheLadder2": {
+      "name_en": "Climb The Ladder II",
+      "name_ko": "서열 상승 II"
+    },
+    "TFT_Augment_ClockworkAccelerator": {
+      "name_en": "Clockwork Accelerator",
+      "name_ko": "시계태엽 윤활유"
+    },
+    "TFT_Augment_CognitiveOverload": {
+      "name_en": "Cognitive Overload",
+      "name_ko": "인지 과부하"
+    },
+    "TFT_Augment_CognitiveTax": {
+      "name_en": "Cognitive Tax",
+      "name_ko": "인지세"
+    },
+    "TFT_Augment_CognitiveTaxPlus": {
+      "name_en": "Cognitive Tax+",
+      "name_ko": "인지세+"
+    },
+    "TFT_Augment_ComebackStory": {
+      "name_en": "Comeback Story",
+      "name_ko": "역전의 서막"
+    },
+    "TFT_Augment_ComponentQuestBelt": {
+      "name_en": "Extra Buckles",
+      "name_ko": "추가 버클"
+    },
+    "TFT_Augment_ComponentQuestBow": {
+      "name_en": "Backup Bows",
+      "name_ko": "예비 활"
+    },
+    "TFT_Augment_ComponentQuestGlove": {
+      "name_en": "Critical Success",
+      "name_ko": "치명적 성공"
+    },
+    "TFT_Augment_ComponentQuestRod": {
+      "name_en": "Continuous Conjuration",
+      "name_ko": "연속 주문 사용"
+    },
+    "TFT_Augment_ComponentQuestSword": {
+      "name_en": "Carve a Path",
+      "name_ko": "길을 내라"
+    },
+    "TFT_Augment_ComponentQuestTear": {
+      "name_en": "Flowing Tears",
+      "name_ko": "흐르는 눈물"
+    },
+    "TFT_Augment_ConstructACompanion": {
+      "name_en": "Construct a Companion",
+      "name_ko": "동료 제작"
+    },
+    "TFT_Augment_Corrosion": {
+      "name_en": "Corrosion",
+      "name_ko": "부식"
+    },
+    "TFT_Augment_CosmicRestart": {
+      "name_en": "Cosmic Restart",
+      "name_ko": "우주적 재시작"
+    },
+    "TFT_Augment_CraftedCrafting": {
+      "name_en": "Crafted Crafting",
+      "name_ko": "정교한 공예"
+    },
+    "TFT_Augment_CryMeARiver": {
+      "name_en": "Cry Me A River",
+      "name_ko": "실컷 울어봐라"
+    },
+    "TFT_Augment_DeadlierCaps": {
+      "name_en": "Deadlier Caps",
+      "name_ko": "더욱 치명적인 모자"
+    },
+    "TFT_Augment_Dhampyr1": {
+      "name_en": "Vampiric Vitality I",
+      "name_ko": "흡혈의 활력 I"
+    },
+    "TFT_Augment_Dhampyr2": {
+      "name_en": "Vampiric Vitality II",
+      "name_ko": null
+    },
+    "TFT_Augment_Dummify": {
+      "name_en": "Dummify",
+      "name_ko": "훈련 봇 변환"
+    },
+    "TFT_Augment_DuoQueue": {
+      "name_en": "Duo Queue",
+      "name_ko": "2인조"
+    },
+    "TFT_Augment_EarlyLearning": {
+      "name_en": "Early Learnings",
+      "name_ko": "조기 교육"
+    },
+    "TFT_Augment_EpicRolldown": {
+      "name_en": "Epic Rolldown",
+      "name_ko": "서사적 새로고침"
+    },
+    "TFT_Augment_ExclusiveCustomization": {
+      "name_en": "Exclusive Customization",
+      "name_ko": "특별 맞춤 설정"
+    },
+    "TFT_Augment_ExclusiveCustomization2": {
+      "name_en": "Exclusive Customization II",
+      "name_ko": "특별 맞춤 설정 II"
+    },
+    "TFT_Augment_ExpectedUnexpectedness": {
+      "name_en": "Expected Unexpectedness",
+      "name_ko": "예상된 예상 밖의 결과"
+    },
+    "TFT_Augment_Expedition": {
+      "name_en": "Expedition",
+      "name_ko": "탐사"
+    },
+    "TFT_Augment_ExplosiveGrowth": {
+      "name_en": "Explosive Growth",
+      "name_ko": "폭발적인 성장"
+    },
+    "TFT_Augment_ExplosiveGrowthPlus": {
+      "name_en": "Explosive Growth+",
+      "name_ko": "폭발적인 성장+"
+    },
+    "TFT_Augment_FeedTheFlames": {
+      "name_en": "Feed the Flames",
+      "name_ko": "땔감 제공"
+    },
+    "TFT_Augment_FeelingLucky": {
+      "name_en": "Feeling Lucky",
+      "name_ko": "행운의 기운"
+    },
+    "TFT_Augment_FindYourCenter": {
+      "name_en": "Find Your Center",
+      "name_ko": "중심 잡기"
+    },
+    "TFT_Augment_FiresalePlus": {
+      "name_en": "Firesale",
+      "name_ko": "급매"
+    },
+    "TFT_Augment_Flexible": {
+      "name_en": "Flexible",
+      "name_ko": "유연함"
+    },
+    "TFT_Augment_ForgeAFriend": {
+      "name_en": "Forge a Friend",
+      "name_ko": "친구 사귀기"
+    },
+    "TFT_Augment_ForgeRod": {
+      "name_en": "Staffsmith",
+      "name_ko": "지팡이 제작자"
+    },
+    "TFT_Augment_ForgeSword": {
+      "name_en": "Swordsmith",
+      "name_ko": "검 제작자"
+    },
+    "TFT_Augment_ForgedInStrength": {
+      "name_en": "Forged in Strength",
+      "name_ko": "힘을 실은 제련"
+    },
+    "TFT_Augment_ForwardThinking": {
+      "name_en": "Forward Thinking",
+      "name_ko": "미래 지향적 사고"
+    },
+    "TFT_Augment_FrontlineFoundation": {
+      "name_en": "Frontline Foundation",
+      "name_ko": "전방의 토대"
+    },
+    "TFT_Augment_FuriousBlows": {
+      "name_en": "Kahunahuna",
+      "name_ko": "에너지 파동"
+    },
+    "TFT_Augment_GainGold": {
+      "name_en": "Gain @Gold@ Gold",
+      "name_ko": "@Gold@골드 획득"
+    },
+    "TFT_Augment_GiantAndMighty": {
+      "name_en": "Giant and Mighty",
+      "name_ko": "거대하고 강력한"
+    },
+    "TFT_Augment_GildedSteel": {
+      "name_en": "Gilded Steel",
+      "name_ko": "도금 강철"
+    },
+    "TFT_Augment_GlassCannonI": {
+      "name_en": "Glass Cannon I",
+      "name_ko": "유리 대포 I"
+    },
+    "TFT_Augment_GlassCannonII": {
+      "name_en": "Glass Cannon II",
+      "name_ko": "유리 대포 II"
+    },
+    "TFT_Augment_GoldenGamble": {
+      "name_en": "Golden Gamble",
+      "name_ko": "경품 추첨"
+    },
+    "TFT_Augment_GoldenGamblePlus": {
+      "name_en": "Golden Gamble+",
+      "name_ko": "경품 추첨+"
+    },
+    "TFT_Augment_GoldenGamblePlusPlus": {
+      "name_en": "Golden Gamble++",
+      "name_ko": "경품 추첨++"
+    },
+    "TFT_Augment_GroupHug1": {
+      "name_en": "Group Hug I",
+      "name_ko": "단체 포옹 I"
+    },
+    "TFT_Augment_GroupHug2": {
+      "name_en": "Group Hug II",
+      "name_ko": "단체 포옹 II"
+    },
+    "TFT_Augment_GuardbreakerSpirit": {
+      "name_en": "Mace's Will",
+      "name_ko": "철퇴의 의지"
+    },
+    "TFT_Augment_HardCommit": {
+      "name_en": "Hard Commit",
+      "name_ko": "극진한 헌신"
+    },
+    "TFT_Augment_HeavyIsTheCrown": {
+      "name_en": "Heavy Is the Crown",
+      "name_ko": "왕관의 무게"
+    },
+    "TFT_Augment_HeroicGrabBagPlus": {
+      "name_en": "Heroic Grab Bag+",
+      "name_ko": "영웅 꾸러미+"
+    },
+    "TFT_Augment_HeroicGrabBagPlusPlus": {
+      "name_en": "Heroic Grab Bag++",
+      "name_ko": "영웅 꾸러미++"
+    },
+    "TFT_Augment_HighVoltage": {
+      "name_en": "High Voltage",
+      "name_ko": "고전압"
+    },
+    "TFT_Augment_HoldTheLine": {
+      "name_en": "Hold the Line",
+      "name_ko": "진형 유지"
+    },
+    "TFT_Augment_HomeCooking": {
+      "name_en": "Care Package",
+      "name_ko": "선물 꾸러미"
+    },
+    "TFT_Augment_InfinityProtection": {
+      "name_en": "Infinity Protection",
+      "name_ko": "무한한 보호"
+    },
+    "TFT_Augment_InvestedPlus": {
+      "name_en": "Invested+",
+      "name_ko": "투자+"
+    },
+    "TFT_Augment_InvestedPlusPlus": {
+      "name_en": "Invested++",
+      "name_ko": "투자++"
+    },
+    "TFT_Augment_ItemGargoyleStoneplate": {
+      "name_en": "Solo Plate",
+      "name_ko": "고독한 방패"
+    },
+    "TFT_Augment_ItemSpiritVisage": {
+      "name_en": "Spirit of Redemption",
+      "name_ko": "구원의 영혼"
+    },
+    "TFT_Augment_JustHit": {
+      "name_en": "Just Hit",
+      "name_ko": "그냥 눌러"
+    },
+    "TFT_Augment_JustSlayer": {
+      "name_en": "Indiscriminate Killer",
+      "name_ko": "무차별적 살인자"
+    },
+    "TFT_Augment_KickStart": {
+      "name_en": "Kick Start",
+      "name_ko": "시동 걸기"
+    },
+    "TFT_Augment_LateGameScaling": {
+      "name_en": "Late Game Scaling",
+      "name_ko": "후반 성장"
+    },
+    "TFT_Augment_LegionOfThrees": {
+      "name_en": "Legion of Threes",
+      "name_ko": "3단계 군단"
+    },
+    "TFT_Augment_Lineup": {
+      "name_en": "Lineup",
+      "name_ko": "정렬"
+    },
+    "TFT_Augment_LuxurySubscription": {
+      "name_en": "Luxury Subscription",
+      "name_ko": "호화로운 정기 구독"
+    },
+    "TFT_Augment_MagicRoll": {
+      "name_en": "A Magic Roll",
+      "name_ko": "마법 주사위"
+    },
+    "TFT_Augment_MagicRollMinus": {
+      "name_en": "Slightly Magic Roll",
+      "name_ko": "약간 신비한 주사위"
+    },
+    "TFT_Augment_MarksMan": {
+      "name_en": "Focused Fire",
+      "name_ko": "화력 집중"
+    },
+    "TFT_Augment_MaxBuild": {
+      "name_en": "Max Build",
+      "name_ko": null
+    },
+    "TFT_Augment_MayTheFoursBeWithYou": {
+      "name_en": "May the Fours Be With You",
+      "name_ko": "4가 함께하길"
+    },
+    "TFT_Augment_MinMaxer": {
+      "name_en": "Min-Max",
+      "name_ko": "최적화"
+    },
+    "TFT_Augment_MirroredMonetization": {
+      "name_en": "Malicious Monetization",
+      "name_ko": "악의적 수익 창출"
+    },
+    "TFT_Augment_Misfits": {
+      "name_en": "Misfits",
+      "name_ko": "반항아"
+    },
+    "TFT_Augment_MoneyHungry": {
+      "name_en": "Money Hungry",
+      "name_ko": "돈독"
+    },
+    "TFT_Augment_MoneyMonsoon": {
+      "name_en": "Money Monsoon",
+      "name_ko": "돈 폭풍"
+    },
+    "TFT_Augment_MuseumHeist": {
+      "name_en": "Component Heist",
+      "name_ko": "조합 아이템 강탈"
+    },
+    "TFT_Augment_NineLives": {
+      "name_en": "Nine Lives",
+      "name_ko": "9개의 목숨"
+    },
+    "TFT_Augment_NoScoutNoPivot": {
+      "name_en": "NO SCOUT NO PIVOT",
+      "name_ko": "단일 조합 사수"
+    },
+    "TFT_Augment_OneBuffTwoBuff": {
+      "name_en": "One Buff, Two Buff",
+      "name_ko": "붉고 푸른 효과"
+    },
+    "TFT_Augment_PatienceIsAVirtue": {
+      "name_en": "Patience is a Virtue",
+      "name_ko": "참는 자에게 복을"
+    },
+    "TFT_Augment_Pilfer": {
+      "name_en": "Pilfer",
+      "name_ko": "슬쩍하기"
+    },
+    "TFT_Augment_PlotArmor": {
+      "name_en": "Plot Armor",
+      "name_ko": "주인공 버프"
+    },
+    "TFT_Augment_PowerUp": {
+      "name_en": "Augmented Power",
+      "name_ko": "증강된 힘"
+    },
+    "TFT_Augment_Replication": {
+      "name_en": "Replication",
+      "name_ko": "복제"
+    },
+    "TFT_Augment_RestartMission": {
+      "name_en": "Restart Mission",
+      "name_ko": "임무 재시작"
+    },
+    "TFT_Augment_Retribution": {
+      "name_en": "Retribution",
+      "name_ko": "응징"
+    },
+    "TFT_Augment_SavingsAccount": {
+      "name_en": "Savings Account",
+      "name_ko": "예금 계좌"
+    },
+    "TFT_Augment_SeraphimsStaff": {
+      "name_en": "Seraphim's Staff",
+      "name_ko": "고위천사의 지팡이"
+    },
+    "TFT_Augment_ShimmerscaleEssence": {
+      "name_en": "Shimmerscale Essence",
+      "name_ko": "빛비늘 정수"
+    },
+    "TFT_Augment_SideEffects": {
+      "name_en": "Side Effects",
+      "name_ko": "부작용"
+    },
+    "TFT_Augment_SizeMatters": {
+      "name_en": "Size Matters",
+      "name_ko": "크기의 중요성"
+    },
+    "TFT_Augment_SliceOfLife": {
+      "name_en": "Slice of Life",
+      "name_ko": "일상물"
+    },
+    "TFT_Augment_SmallGrabBag": {
+      "name_en": "Small Grab Bag",
+      "name_ko": "작은 꾸러미"
+    },
+    "TFT_Augment_SoloLeveling": {
+      "name_en": "Solo Leveling",
+      "name_ko": "나 혼자 레벨업"
+    },
+    "TFT_Augment_SpeedyDoubleKill": {
+      "name_en": "Speedy Double Kill",
+      "name_ko": "재빠른 더블 킬"
+    },
+    "TFT_Augment_SpreadingRoots": {
+      "name_en": "Spreading Roots",
+      "name_ko": "뻗어가는 뿌리"
+    },
+    "TFT_Augment_SpreadingRootsPlus": {
+      "name_en": "Spreading Roots+",
+      "name_ko": "뻗어가는 뿌리+"
+    },
+    "TFT_Augment_SubscriptionService": {
+      "name_en": "Subscription Service",
+      "name_ko": "구독 서비스"
+    },
+    "TFT_Augment_Survivor": {
+      "name_en": "Survivor",
+      "name_ko": "생존자"
+    },
+    "TFT_Augment_SweetTreats": {
+      "name_en": "Sweet Treats",
+      "name_ko": "달콤한 간식"
+    },
+    "TFT_Augment_SwordOverflow": {
+      "name_en": "Sword Overflow",
+      "name_ko": "넘치는 대검"
+    },
+    "TFT_Augment_TacticiansKitchen": {
+      "name_en": "Tactician's Kitchen",
+      "name_ko": "전략가의 주방"
+    },
+    "TFT_Augment_TheBaronsLair": {
+      "name_en": "Baron's Lair",
+      "name_ko": "남작의 소굴"
+    },
+    "TFT_Augment_TheDarkinBlade": {
+      "name_en": "Blood Offering",
+      "name_ko": "피의 공물"
+    },
+    "TFT_Augment_TheGoldenDragon": {
+      "name_en": "The Golden Dragon",
+      "name_ko": "황금 드래곤"
+    },
+    "TFT_Augment_TheTower": {
+      "name_en": "The Tower",
+      "name_ko": "탑"
+    },
+    "TFT_Augment_TheVidalion": {
+      "name_en": "Woven Magic",
+      "name_ko": "얽힌 마법"
+    },
+    "TFT_Augment_TragicalBlade": {
+      "name_en": "Deadlier Blades",
+      "name_ko": "치명적인 칼날"
+    },
+    "TFT_Augment_TraitTree": {
+      "name_en": "The Trait Tree",
+      "name_ko": "특성 나무"
+    },
+    "TFT_Augment_TraitTreePlus": {
+      "name_en": "The Trait Tree+",
+      "name_ko": "특성 나무+"
+    },
+    "TFT_Augment_TreasureHunt": {
+      "name_en": "Treasure Hunt",
+      "name_ko": "보물 사냥"
+    },
+    "TFT_Augment_Trifecta1": {
+      "name_en": "Trifecta I",
+      "name_ko": "삼인방 I"
+    },
+    "TFT_Augment_Trifecta2": {
+      "name_en": "Trifecta II",
+      "name_ko": "삼인방 II"
+    },
+    "TFT_Augment_TwinGuardians": {
+      "name_en": "Twin Guardians",
+      "name_ko": "쌍둥이 수호자"
+    },
+    "TFT_Augment_TwoMuchValue": {
+      "name_en": "Two Much Value",
+      "name_ko": "2만한 가치"
+    },
+    "TFT_Augment_TwoTanky": {
+      "name_en": "Two Tanky",
+      "name_ko": "쌍두마차"
+    },
+    "TFT_Augment_Unforgotten": {
+      "name_en": "Warlord's Honor",
+      "name_ko": "대장군의 명예"
+    },
+    "TFT_Augment_UpwardMobility": {
+      "name_en": "Upward Mobility",
+      "name_ko": "출세가도"
+    },
+    "TFT_Augment_UrfsGambit": {
+      "name_en": "Urf's Gambit",
+      "name_ko": "우르프의 갬빗"
+    },
+    "TFT_Augment_WandOverflow": {
+      "name_en": "Wand Overflow",
+      "name_ko": "넘치는 지팡이"
+    },
+    "TFT_Augment_WarmogsBuckle": {
+      "name_en": "Heart of Steel",
+      "name_ko": "강철의 심장"
+    },
+    "TFT_Augment_Warpath": {
+      "name_en": "Warpath",
+      "name_ko": "출정"
+    },
+    "TFT_Augment_Waverider": {
+      "name_en": "On a Roll",
+      "name_ko": "승승장구"
+    },
+    "TFT_Augment_WeStickTogether": {
+      "name_en": "We Stick Together",
+      "name_ko": "하나로 뭉치는 거지"
+    },
+    "TFT_Augment_WinOut": {
+      "name_en": "Win Out",
+      "name_ko": "성취"
+    },
+    "TFT_Augment_WorthTheWaitGold": {
+      "name_en": "Worth the Wait",
+      "name_ko": "기다림의 미학"
+    },
+    "TFT_Augment_WorthTheWaitPrismatic": {
+      "name_en": "Worth the Wait II",
+      "name_ko": "기다림의 미학 II"
+    },
+    "TFT6_Augment_SunfireBoard": {
+      "name_en": "Sunfire Board",
+      "name_ko": "태양불꽃판"
+    },
+    "TFT17_Augment_AnimaSquad_Commander": {
+      "name_en": "Anima Commander",
+      "name_ko": "동물특공대 지휘관"
+    },
+    "TFT9_Augment_YouHaveMyBow": {
+      "name_en": "You Have My Bow",
+      "name_ko": "활의 수호자"
+    },
+    "TFT17_Augment_Arbiter_DivineAmendment": {
+      "name_en": "Divine Amendment",
+      "name_ko": "신성한 개정"
+    },
+    "TFT17_Augment_LeonaCarry": {
+      "name_en": "Shieldmaiden",
+      "name_ko": "방패 여전사"
+    },
+    "TFT17_Augment_PrimordianPrismaticAugment": {
+      "name_en": "Heart of the Swarm",
+      "name_ko": "군체의 심장"
+    },
+    "TFT17_Augment_Concentration": {
+      "name_en": "Concentration",
+      "name_ko": "집중"
+    },
+    "TFT17_Augment_DarkStar_WhiteHole": {
+      "name_en": "Loot Singularity",
+      "name_ko": "전리품 특이점"
+    },
+    "TFT17_Augment_Timebreaker_Timestream": {
+      "name_en": "Timestream",
+      "name_ko": "시간의 흐름"
+    },
+    "TFT17_Augment_TourOfTheGalaxy": {
+      "name_en": "Tour of the Galaxy",
+      "name_ko": "은하계 여행"
+    },
+    "TFT6_Augment_ForceOfNaturePlus": {
+      "name_en": "New Recruit+",
+      "name_ko": "신병+"
+    }
+  }
+}
