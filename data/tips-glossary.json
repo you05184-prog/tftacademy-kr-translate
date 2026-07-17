@@ -185,6 +185,7 @@
     "Optimized version still being tested. Can also play for Zoe 3* or Challenger Miss Fortune 3* if you get excess sword / bow items and no Anima. Look for Arbiter that gives Resists or permanent HP per 3 attacks / 4 seconds / damage 10 times. Anima cash out is optional, but nice to hit extra copies of Illaoi / Aurora. ": "최적화된 버전은 아직 테스트 중입니다. 동물특공대 없이 검/활 아이템이 남으면 조이 3성이나 도전자 미스 포츈 3성을 노려도 됩니다. 저항력을 주거나 공격 3회/4초/피해 10회마다 영구 체력을 주는 중재자를 찾으세요. 동물특공대 정산은 선택 사항이지만 일라오이 / 오로라 사본을 추가로 얻기 좋습니다.",
     "Ideally open with Arbiter to begin stacking Diana. Slam items to start gaining permanent HP stacks for her. Can also lose streak Anima but it's riskier.": "이상적으로는 중재자로 시작해 다이애나 스택을 쌓으세요. 아이템을 몰아 영구 체력 스택을 쌓기 시작하세요. 동물특공대로 연패해도 되지만 더 위험합니다.",
     "Look for an econ augment if you don't have one already. If win streaking, play for 3-7 Level 7. If  lose streaking / playing Anima, level at 3-5 and roll for 2*.": "아직 없다면 경제 증강을 찾으세요. 연승 중이라면 3-7에 레벨 7을 목표로 하세요. 연패 중이거나 동물특공대라면 3-5에 레벨업하고 2성을 위해 굴리세요.",
+    "Slow roll for 3* 3 cost. You should be hitting one by end of Stage 4. If you think you can't hit, take an econ augment. Once done, level to 8 for any 5 cost.": "3코스트 3성을 위해 슬로우 롤하세요. 4단계가 끝날 때쯤엔 하나는 떠 있어야 합니다. 못 뜰 것 같다면 경제 증강을 챙기세요. 완성되면 원하는 5코스트를 위해 레벨 8로 올리세요.",
 
     "Primordian Reroll": "태고족 리롤",
     "N.O.V.A. Bel'Veth Reroll": "N.O.V.A. 벨베스 리롤",
@@ -253,6 +254,9 @@
 
     "Reach for the Stars Jax": "별에게 손을 뻗어 잭스",
     "Reach for the Stars Jax Reroll": "별에게 손을 뻗어 잭스 리롤",
+    "Reach for the Stars Jax (copy)": "별에게 손을 뻗어 잭스 (사본)",
+    "Take lots of item and econ augments to hit the board. Prioritize Jax items > Pantheon > Millio. Must hit Jax  3 on 4-1 to be on tempo. Don't need to build shred because of Aatrox NOVA bonus.": "보드를 완성하기 위해 아이템과 경제 증강을 많이 챙기세요. 아이템 우선순위: 잭스 > 판테온 > 밀리오. 4-1에 잭스 3성을 반드시 떠서 템포를 맞춰야 합니다. 아트록스의 N.O.V.A. 보너스 덕분에 파쇄를 따로 만들 필요는 없습니다.",
+    "Try to finish the Jax 3* by 4-1, Rhaast goes in on 8.  Morgana goes in on 9.": "4-1까지 잭스 3성을 완성하도록 노력하세요. 라아스트는 8레벨에, 모르가나는 9레벨에 넣으세요.",
     "Positioning example shown for Huntress. Best Stargazers: Mountain = Huntress  > Medallion > Altar > Fountain > Serpent > Boar. Take lots of item and econ augments to hit the board. Prioritize Jax items > Pantheon > Millio. Ideally hit Jax 3 on 4-1 to be on tempo. Don't need to build Shred because of Aatrox NOVA bonus.": "예시 배치는 사냥꾼자리 기준입니다. 최고의 별돌보미: 산자리 = 사냥꾼자리 > 메달자리 > 제단자리 > 분수자리 > 뱀자리 > 멧돼지자리. 보드를 완성하기 위해 아이템과 경제 증강을 많이 챙기세요. 아이템 우선순위: 잭스 > 판테온 > 밀리오. 이상적으로는 4-1에 잭스 3성을 떠서 템포를 맞추세요. 아트록스의 N.O.V.A. 보너스 덕분에 파쇄를 따로 만들 필요는 없습니다.",
     "Get Jax online with items ASAP and try to win streak if possible. If lose streak, you can look for an econ engine like Primordian / Timebreaker.": "가능한 한 빨리 잭스에 아이템을 채우고 연승을 노리세요. 연패 중이라면 태고족 / 시간 균열자 같은 경제 엔진을 찾아보세요.",
     "Level to 6 and roll for 2* Jax and the Stargazer NOVA board. Econ back up to 50g and slow roll for 3* Jax.  If hit a lot of upgrades early, can level to 7 for a stronger board and slowroll on 7.": "레벨 6으로 올려 잭스 2성과 별돌보미 N.O.V.A. 보드를 위해 굴리세요. 다시 50골드까지 경제를 쌓고 잭스 3성을 위해 슬로우 롤하세요. 초반에 업그레이드를 많이 떴다면 레벨 7로 올려 더 강한 보드로 7레벨에서 슬로우 롤해도 됩니다.",
@@ -362,12 +366,14 @@
     "Ideally open with Miss Fortune + Primordian and win streak. Slam items for MF / Bel'Veth.": "이상적으로는 미스 포츈 + 태고족으로 시작해 연승을 노리세요. 미스 포츈 / 벨베스에게 아이템을 아끼지 마세요.",
     "If rich and uncontested, slow roll on 7 for 3* carries. Otherwise, level to 8 and look for your 4 costs (TK and Kindred) then finish your 3* on level 8.": "자원이 넉넉하고 경쟁이 없다면 7레벨에서 3성 캐리를 위해 슬로우 롤하세요. 그렇지 않다면 레벨 8로 올려 4코스트(탐 켄치, 킨드레드)를 찾은 뒤 레벨 8에서 3성을 완성하세요.",
     "Ideally open with Miss Fortune + Primordian and win streak. Slam items for MF and tank.": "이상적으로는 미스 포츈 + 태고족으로 시작해 연승을 노리세요. 미스 포츈과 탱커에게 아이템을 아끼지 마세요.",
+    "Slow roll for 3* 3 cost. You should be hitting one by end of Stage 4. If you think you can't hit, take an econ augment. Once done, level to 8 for Kindred, Diana, or Akali for precision.": "3코스트 3성을 위해 슬로우 롤하세요. 4단계가 끝날 때쯤엔 하나는 떠 있어야 합니다. 못 뜰 것 같다면 경제 증강을 챙기세요. 완성되면 정밀을 위해 킨드레드, 다이애나, 아칼리 중 하나로 레벨 8로 올리세요.",
 
     "Mechgana": "메크가나",
     "Morgana Aurelion Sol": "모르가나 아우렐리온 솔",
     "Only Mech Asol. Morgana prefers HP tank items. If you only get resist items, consider tanking Mighty Mech in Mecha form. Look for Nunu until you get Blitzcrank. On 9, add Bard.": "메카 아솔만 해당. 모르가나는 체력 탱커 아이템을 선호합니다. 저항 아이템만 얻었다면 거대 메크 로봇을 메카 형태로 탱커로 쓰는 것을 고려하세요. 블리츠크랭크를 뜰 때까지 누누를 기용하세요. 9레벨에서 바드를 추가하세요.",
 
     "Jinx Pyke": "징크스 파이크",
+    "Jinx Pyke Reroll": "징크스 파이크 리롤",
     "Positioning is very important! Follow guide and put Pyke one hex left or right from back center hex to be opposite side of enemy carry.  All psionic items are good except for drone, Target lock optics / Offensive Psionic items -> Pyke, Biomatter -> Gragas.": "배치가 매우 중요합니다! 가이드대로 파이크를 후열 중앙 칸에서 좌우로 한 칸 옆에 배치해 적 캐리의 반대쪽에 두세요. 드론을 제외한 모든 초능력 아이템이 좋습니다. 표적 고정 광학 장치 / 공격형 초능력 아이템 -> 파이크, 유기물 보존기 -> 그라가스.",
     "Play around early Pyke and Gragas with items and look to win streak. Prioritize 3 items on 1 carry + tank items instead of spreading out items.": "초반 파이크와 그라가스에 아이템을 갖추고 연승을 노리세요. 아이템을 분산하지 말고 캐리 1명 + 탱커에게 3개를 몰아주세요.",
     "Level to 6 and roll for upgrades. The goal is to win streak all of Stage 3. Look for Bel'veth, Akali, and Meepsie as temporary fillers for traits.": "레벨 6으로 올려 업그레이드를 위해 굴리세요. 목표는 3단계 전체 연승입니다. 벨베스, 아칼리, 꼬마 정령을 특성용 임시 채움 유닛으로 활용하세요.",
@@ -379,8 +385,10 @@
     "Slow roll on Level 7 for 3* 3 cost. You should be hitting one by end of Stage 4. If you think you can't hit, take an econ augment. Once done, level to 8 for Karma.": "레벨 7에서 3코스트 3성을 위해 슬로우 롤하세요. 4단계가 끝날 때쯤엔 떠 있어야 합니다. 못 뜰 것 같다면 경제 증강을 챙기세요. 완성되면 카르마를 위해 레벨 8로 올리세요.",
 
     "Kindred LeBlanc": "킨드레드 르블랑",
+    "Kindred Leblanc": "킨드레드 르블랑",
     "Variation of NOVA Kindred played when you have excess amount of Rods / AP items. NOVA provides free Sunder / Shred.": "지팡이 / AP 아이템이 남을 때 플레이하는 N.O.V.A. 킨드레드의 변형입니다. N.O.V.A.는 파쇄/파열을 무료로 제공합니다.",
     "Level to 8 at a natural interval and roll heavily for your 4 costs. Play Rammus or Ornn until Shen. Only go for level 9 when you have upgraded frontline / carries.": "자연스러운 타이밍에 레벨 8로 올려 4코스트를 위해 강하게 굴리세요. 쉔을 뜰 때까지 람머스나 오른을 기용하세요. 전열 / 캐리가 업그레이드됐을 때만 9레벨을 노리세요.",
+    "Standard level 6 and 7 intervals (3-2 / 3-5 if streaking). Play around Brawler / NOVA frontline. Kindred 1 / LeBlanc can go in immediately.": "표준적인 레벨 6, 7 타이밍(연승 중이면 3-2 / 3-5)을 따르세요. 싸움꾼 / N.O.V.A. 전열 위주로 플레이하세요. 킨드레드 1성 / 르블랑은 즉시 기용해도 됩니다.",
 
     "Stargazer Vex": "별돌보미 벡스",
     "Best on Serpent, Boar, and Mountain Stargazer. Fountain is -1 tier in strength. As of 17.7, Vex is now a Stargazer and Shen is a Timebreaker so this should be considered a lategame transition for Xayah.": "뱀자리, 멧돼지자리, 산자리 별돌보미에서 가장 강력합니다. 분수자리는 세기가 1단계 낮습니다. 17.7 기준으로 벡스가 별돌보미가 되고 쉔이 시간 균열자가 되어, 이는 자야의 후반 전환 조합으로 보는 것이 좋습니다.",
@@ -416,6 +424,8 @@
     "Look for 4 Vanguard and 3 Shepherd as your core. Zoe 2 should still be best item holder but you can also play around early Nami / Karma.": "4 선봉대와 3 길잡이를 핵심으로 삼으세요. 조이 2성이 여전히 최고의 아이템 홀더지만 초반 나미 / 카르마 위주로 플레이해도 됩니다.",
     "Be highly flexible on your level 8 rolldown and prioritize upgraded frontline + Asol. If you are gold poor, take an econ augment to hit. Once stable, go 9 for 5 costs. Can replace Asol with Bard 2 to fully cap out.": "레벨 8 롤다운에서 매우 유동적으로 대응하며 업그레이드된 전열 + 아솔을 우선하세요. 골드가 부족하다면 경제 증강을 챙겨 뜰 확률을 높이세요. 안정되면 5코스트를 위해 9레벨로 가세요. 완전히 마무리하려면 아솔을 바드 2성으로 대체해도 됩니다.",
     "Frontline is flexible. Can play units like Mighty Mech/Morgana/Rhaast over 2 vanguards. Position in a way for units to surround tank so Asol beam can hit multiple units. Dark Star Asol = pivot towards 6 Dark Star.": "전열은 유동적입니다. 선봉대 2기 대신 거대 메크 로봇/모르가나/라아스트 같은 유닛을 기용할 수 있습니다. 아솔의 광선이 여러 유닛을 맞출 수 있도록 유닛들이 탱커를 둘러싸는 배치를 하세요. 암흑의 별 아솔이면 6 암흑의 별로 전환하세요.",
+    "AP Asol Flex (copy)": "AP 아솔 플렉스 (사본)",
+    "Can play units like Mighty Mech/Morgana/Rhaast over 2 vanguards. Position in a way for units to surround tank so Asol beam can hit multiple units. Dark Star Asol = pivot towards 6 Dark Star.": "선봉대 2기 대신 거대 메크 로봇/모르가나/라아스트 같은 유닛을 기용할 수 있습니다. 아솔의 광선이 여러 유닛을 맞출 수 있도록 유닛들이 탱커를 둘러싸는 배치를 하세요. 암흑의 별 아솔이면 6 암흑의 별로 전환하세요.",
 
     "Brawler Miss Fortune": "싸움꾼 미스 포츈",
     "Brawler Miss Fortune Reroll": "싸움꾼 미스 포츈 리롤",

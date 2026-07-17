@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TFT Academy 한글 번역
 // @namespace    https://github.com/you05184-prog/tftacademy-kr-translate
-// @version      0.5.1
+// @version      0.5.2
 // @description  tftacademy.com 티어리스트 페이지의 챔피언/아이템/특성/증강 이름, 특성/증강 설명, 사이트 자체 팁 텍스트를 한글로 실시간 번역
 // @author       you05184-prog
 // @match        https://tftacademy.com/tierlist*
