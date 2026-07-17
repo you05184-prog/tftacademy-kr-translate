@@ -50,6 +50,8 @@
 
 - `tftacademy-kr-translate.user.js` — 실제 배포되는 유저스크립트 (fetch 인터셉트 기반 고유명사 번역 구현됨)
 - `scripts/build-glossary.mjs` — Data Dragon + tftacademy API로 `data/glossary.json` 생성
+- `scripts/find-new-content.mjs` — 라이브 사이트(가이드 팁 + 특성/증강 설명)와 기존 glossary 파일을 비교해서 **아직 번역 안 된 항목만** JSON으로 출력. 예약 에이전트가 전체 파일을 매번 읽어서 눈으로 대조하지 않고 이 diff 결과만 보고 번역하도록 해서 토큰/시간을 절약함.
+- `scripts/merge-translations.mjs` — `find-new-content.mjs`가 찾은 항목의 번역 결과(패치 JSON)를 `data/tips-glossary.json`/`data/descriptions-glossary.json`에 병합(append-only, 기존 키 보존)
 - `data/glossary.json` — apiName → 한글 명칭 매핑 (자동 생성 파일)
 - `data/manual-overrides.json` — Data Dragon에 없는 apiName 수동 보정
 - `README.md` — 이 문서
